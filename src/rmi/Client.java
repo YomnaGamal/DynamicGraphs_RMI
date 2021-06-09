@@ -18,10 +18,10 @@ public class Client extends UnicastRemoteObject implements IRemote {
 	public static void main(String[] args) throws MalformedURLException, RemoteException, NotBoundException {
 		// TODO Auto-generated method stub
 		// Check for hostname argument
-		if (args.length != 2) {
+		/**if (args.length != 2) {
 			System.out.println("Syntax - PowerServiceClient host");
 			System.exit(1);
-		}
+		}*/
 
 //		// Assign security manager
 //		if (System.getSecurityManager() == null) {
@@ -29,7 +29,7 @@ public class Client extends UnicastRemoteObject implements IRemote {
 //		}
 
 		// Call registry for PowerService
-		IRemote service = (IRemote) Naming.lookup("rmi://" + args[0]+":"+args[1] + "/shortestPath");
+		IRemote service = (IRemote) Naming.lookup("rmi://" + "127.0.1.1"+":"+"1099" + "/shortestPath");
 		boolean ready = false;
 		while (!ready) {
 			try {
@@ -50,11 +50,12 @@ public class Client extends UnicastRemoteObject implements IRemote {
 			}
 		}
 		ArrayList<String> Batch = new ArrayList<String>();
-		Batch.add("Q 11 1");
+		Batch.add("Q 11 0");
 		Batch.add("A 11 3");
-		Batch.add("Q 11 2");
-		Batch.add("Q 11 7");
-//		Batch.add("F");
+		Batch.add("Q 11 10");
+		Batch.add("Q 3 6");
+		Batch.add("D 11 5");
+		Batch.add("F");
 //		ArrayList<String> Batch = generateBatchs(10,5);
 		for (int i = 0; i < Batch.size(); i++) {
 			System.out.println(Batch.get(i));

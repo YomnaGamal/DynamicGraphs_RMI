@@ -21,6 +21,7 @@ public class Server extends UnicastRemoteObject implements IRemote{
 
 	private final static String graphFileName = "graph";
 	private final static String graphEnd = "S";
+	private final static String batchEnd = "F";
 	private ArrayList<ArrayList<Integer>> graph;
 	private ConcurrentHashMap <Integer , Integer> nodesMap; // map node number to its index in the graph
 	private ReadWriteLock lock;
@@ -57,6 +58,9 @@ public class Server extends UnicastRemoteObject implements IRemote{
 				clientStartTime.put(Thread.currentThread().getId(),startTime);
 				
 				for(int i=0;i<batch.size();i++) {
+					if(!batch.get(i).equalsIgnoreCase(batchEnd)){
+						break;
+					}
 					String []request = batch.get(i).split(" ");
 					int src=Integer.parseInt(request[1]);
 					int dest=Integer.parseInt(request[2]);
@@ -89,19 +93,19 @@ public class Server extends UnicastRemoteObject implements IRemote{
 					       }
 					}
 
-					}
+					//}
 					try {
 						//operation takes a random amount of time (0 to 10000ms).
 						// nextInt is normally exclusive of the top value,
 						// so add 1 to make it inclusive
-						int randomNum = ThreadLocalRandom.current().nextInt(0, 10000 + 1);
+						int randomNum = ThreadLocalRandom.current().nextInt(0, 1000 + 1);
 						Thread.sleep(randomNum);
 					} catch (InterruptedException e) {
 						// TODO Auto-generated catch block
 						e.printStackTrace();
 					}
 					
-				//}
+				}
 				long stopTime = System.currentTimeMillis();
 				if(clientStartTime.containsKey(Thread.currentThread().getId())) {
 					System.out.println("the Thread ID="+Thread.currentThread().getId());
@@ -185,7 +189,10 @@ public class Server extends UnicastRemoteObject implements IRemote{
 		private void delete(int from, int to) {
 	        if(nodesMap.containsKey(from) && nodesMap.containsKey(to)){
 	            int idx = nodesMap.get(from);
-	            graph.get(idx).remove(to);
+	            if(graph.get(idx).contains(to)) {
+	            	graph.get(idx).remove(to);
+	            }
+	            
 	        }
 	    }
 
