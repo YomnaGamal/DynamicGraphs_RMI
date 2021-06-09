@@ -1,0 +1,8 @@
+[main] INFO  rmi.Client  - Server is running
+[main] DEBUG rmi.Client  - Hello this is a debug message
+[main] INFO  rmi.Client  - Hello this is an info message
+[main] DEBUG rmi.Client  - Batch generated successfully
+[main] INFO  rmi.Client  - Results geted successfully, Start printing it:
+[main] INFO  rmi.Client  - -1
+[main] INFO  rmi.Client  - 3
+[main] INFO  rmi.Client  - 2

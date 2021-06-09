@@ -5,23 +5,31 @@ import java.rmi.server.UnicastRemoteObject;
 import java.util.ArrayList;
 import java.util.Random;
 import java.rmi.*;
-import java.io.*;
 import java.net.MalformedURLException;
+
+import org.apache.log4j.Logger;
 
 public class Client extends UnicastRemoteObject implements IRemote {
 
-	protected Client(int port) throws RemoteException {
-		super(port);
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -4501269218926743441L;
+
+	protected Client() throws RemoteException {
+		super();
 		// TODO Auto-generated constructor stub
 	}
+
+	static Logger log = Logger.getLogger(Client.class.getName());
 
 	public static void main(String[] args) throws MalformedURLException, RemoteException, NotBoundException {
 		// TODO Auto-generated method stub
 		// Check for hostname argument
-		/**if (args.length != 2) {
-			System.out.println("Syntax - PowerServiceClient host");
-			System.exit(1);
-		}*/
+		/**
+		 * if (args.length != 2) { System.out.println("Syntax - PowerServiceClient
+		 * host"); System.exit(1); }
+		 */
 
 //		// Assign security manager
 //		if (System.getSecurityManager() == null) {
@@ -29,15 +37,17 @@ public class Client extends UnicastRemoteObject implements IRemote {
 //		}
 
 		// Call registry for PowerService
-		IRemote service = (IRemote) Naming.lookup("rmi://" + "127.0.1.1"+":"+"1099" + "/shortestPath");
+		IRemote service = (IRemote) Naming.lookup("rmi://" + "127.0.1.1" + ":" + "1099" + "/shortestPath");
 		boolean ready = false;
 		while (!ready) {
 			try {
 				if (service.serverIsReady().equals("R")) {
 					System.out.println("R");
 					ready = true;
+					log.info("Server is running");
 				} else {
 					System.out.println("Server still doesn't running");
+					log.info("Server still doesn't running");
 					try {
 						Thread.sleep(2000);
 					} catch (InterruptedException e) {
@@ -49,20 +59,37 @@ public class Client extends UnicastRemoteObject implements IRemote {
 				e1.printStackTrace();
 			}
 		}
-		ArrayList<String> Batch = new ArrayList<String>();
-		Batch.add("Q 11 0");
-		Batch.add("A 11 3");
-		Batch.add("Q 11 10");
-		Batch.add("Q 3 6");
-		Batch.add("D 11 5");
-		Batch.add("F");
-//		ArrayList<String> Batch = generateBatchs(10,5);
-		for (int i = 0; i < Batch.size(); i++) {
+//		ArrayList<String> Batch = new ArrayList<String>();
+//		Batch.add("Q 11 0");
+//		Batch.add("A 11 3");
+//		Batch.add("Q 11 10");
+//		Batch.add("Q 3 6");
+//		Batch.add("D 11 5");
+//		Batch.add("F");
+		int nofB = 10;
+		for (int n = 0; n < nofB; n++) {
+
+			ArrayList<String> Batch = generateBatchs(10, 10);
+			log.info("Batch contains:");
+			System.out.println("Batch contains:");
+			for (int i = 0; i < Batch.size(); i++) {
 			System.out.println(Batch.get(i));
-		}
-		ArrayList<String> result = service.executeBatch(Batch);
-		for (int i = 0; i < result.size(); i++) {
-			System.out.println(result.get(i));
+				log.info(Batch.get(i));
+			}
+//		log.debug("Batch generated successfully");
+			long startTime = System.currentTimeMillis();
+			ArrayList<String> result = service.executeBatch(Batch);
+			long endTime = System.currentTimeMillis();
+			log.info("Results calculated successfully");
+			log.info("Time of execution = " + (-startTime + endTime));
+			log.info("Start printing Result:");
+//		System.out.println("Results calculated successfully, Start printing it:");
+
+			for (int i = 0; i < result.size(); i++) {
+				System.out.println(result.get(i));
+				log.info(result.get(i));
+			}
+			log.info("End Batch");
 		}
 
 	}
@@ -77,9 +104,9 @@ public class Client extends UnicastRemoteObject implements IRemote {
 			int index = random.nextInt(s.length());
 			salt.append(s.charAt(index));
 			salt.append(" ");
-			salt.append(Integer.toString(random.nextInt(k)));
+			salt.append(Integer.toString(random.nextInt(k) + 1));
 			salt.append(" ");
-			salt.append(Integer.toString(random.nextInt(k)));
+			salt.append(Integer.toString(random.nextInt(k) + 1));
 			String saltStr = salt.toString();
 			Batch.add(saltStr);
 			i++;
