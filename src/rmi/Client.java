@@ -31,11 +31,6 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		 * host"); System.exit(1); }
 		 */
 
-//		// Assign security manager
-//		if (System.getSecurityManager() == null) {
-//			System.setSecurityManager(new SecurityManager());
-//		}
-
 		// Call registry for PowerService
 		IRemote service = (IRemote) Naming.lookup("rmi://" + "127.0.1.1" + ":" + "1099" + "/shortestPath");
 		boolean ready = false;
@@ -73,7 +68,7 @@ public class Client extends UnicastRemoteObject implements IRemote {
 			log.info("Batch contains:");
 			System.out.println("Batch contains:");
 			for (int i = 0; i < Batch.size(); i++) {
-			System.out.println(Batch.get(i));
+				System.out.println(Batch.get(i));
 				log.info(Batch.get(i));
 			}
 //		log.debug("Batch generated successfully");
