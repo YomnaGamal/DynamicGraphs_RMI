@@ -95,8 +95,8 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		
 		int nofB = 8;
 		for (int n = 1; n <= nofB; n++) {
-			System.out.println("number of requests = "+(n*5));
-			ArrayList<String> Batch = generateBatchs(n*5, 10);
+			System.out.println("number of requests = "+(n*10));
+			ArrayList<String> Batch = generateBatchs(n*10, 10);
 			log.info("Batch contains:");
 			//System.out.println("Batch contains:");
 			for (int i = 0; i < Batch.size(); i++) {
@@ -109,14 +109,14 @@ public class Client extends UnicastRemoteObject implements IRemote {
 			long endTime = System.currentTimeMillis();
 			System.out.println("Results calculated successfully");
 			System.out.println("Time of execution = " + (-startTime + endTime));
-			System.out.println("Start printing Result:");
+			//System.out.println("Start printing Result:");
 			log.info("Results calculated successfully");
 			log.info("Time of execution = " + (-startTime + endTime));
 			log.info("Start printing Result:");
 //		System.out.println("Results calculated successfully, Start printing it:");
 
 			for (int i = 0; i < result.size(); i++) {
-				System.out.println(result.get(i));
+				//System.out.println(result.get(i));
 				log.info(result.get(i));
 			}
 			log.info("End Batch");
@@ -151,7 +151,7 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		while (i < n) {
 			StringBuilder salt = new StringBuilder();
 			Random random = new Random();
-			double readpercent = 0.4;
+			double readpercent = 0.6;
 			double r = Math.random();
 			if (r < readpercent) {
 				salt.append("Q");
