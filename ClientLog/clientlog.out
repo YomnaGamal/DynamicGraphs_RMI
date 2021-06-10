@@ -1,0 +1,22 @@
+Server is running
+Batch contains:
+Q 9 9
+Q 5 1
+A 1 1
+Q 10 10
+A 2 10
+Q 9 4
+Q 4 1
+D 5 3
+D 8 9
+D 3 7
+F
+Results calculated successfully
+Time of execution = 5279
+Start printing Result:
+0
+2
+0
+2
+1
+End Batch

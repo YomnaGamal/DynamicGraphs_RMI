@@ -17,6 +17,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
 public class Server extends UnicastRemoteObject implements IRemote {
 
 	/**
@@ -30,7 +33,8 @@ public class Server extends UnicastRemoteObject implements IRemote {
 	private ConcurrentHashMap<Integer, Integer> nodesMap; // map node number to its index in the graph
 	private ReadWriteLock lock;
 	private HashMap<Long, Long> clientStartTime; // map client id to its starting time
-
+	static Logger log = Logger.getLogger(Server.class.getName());
+	
 	protected Server(Boolean fromFile) throws RemoteException {
 		super();
 		// TODO Auto-generated constructor stub
@@ -43,6 +47,9 @@ public class Server extends UnicastRemoteObject implements IRemote {
 		} else {
 			readFromStandardInput();
 		}
+		System.setProperty("serverlog", "serverlog.out");
+        PropertyConfigurator.configure("log/log4j.properties");
+        log.info("Server is running");
 
 	}
 
@@ -115,6 +122,9 @@ public class Server extends UnicastRemoteObject implements IRemote {
 		if (clientStartTime.containsKey(Thread.currentThread().getId())) {
 			System.out.println("the Thread ID=" + Thread.currentThread().getId());
 			System.out.println("the execution Time:"
+					+ (stopTime - (long) clientStartTime.get(Thread.currentThread().getId())) + " ms");
+			log.info("the Thread ID=" + Thread.currentThread().getId());
+			log.info("the execution Time:"
 					+ (stopTime - (long) clientStartTime.get(Thread.currentThread().getId())) + " ms");
 		}
 
@@ -194,7 +204,7 @@ public class Server extends UnicastRemoteObject implements IRemote {
 		if (nodesMap.containsKey(from) && nodesMap.containsKey(to)) {
 			int idx = nodesMap.get(from);
 			if (graph.get(idx).contains(to)) {
-				graph.get(idx).remove(to);
+				graph.get(idx).remove(new Integer(to));
 			}
 
 		}

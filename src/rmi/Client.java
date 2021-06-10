@@ -8,6 +8,7 @@ import java.rmi.*;
 import java.net.MalformedURLException;
 
 import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 
 public class Client extends UnicastRemoteObject implements IRemote {
 
@@ -15,13 +16,14 @@ public class Client extends UnicastRemoteObject implements IRemote {
 	 * 
 	 */
 	private static final long serialVersionUID = -4501269218926743441L;
-
+	static Logger log = Logger.getLogger(Client.class.getName());
 	protected Client() throws RemoteException {
 		super();
 		// TODO Auto-generated constructor stub
+		
 	}
 
-	static Logger log = Logger.getLogger(Client.class.getName());
+
 
 	public static void main(String[] args) throws MalformedURLException, RemoteException, NotBoundException {
 		// TODO Auto-generated method stub
@@ -30,6 +32,8 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		 * if (args.length != 2) { System.out.println("Syntax - PowerServiceClient
 		 * host"); System.exit(1); }
 		 */
+		System.setProperty("clientlog", "clientlog.out");
+        PropertyConfigurator.configure("src/log/log4j.properties");
 
 		// Call registry for PowerService
 		IRemote service = (IRemote) Naming.lookup("rmi://" + "127.0.1.1" + ":" + "1099" + "/shortestPath");
@@ -61,7 +65,7 @@ public class Client extends UnicastRemoteObject implements IRemote {
 //		Batch.add("Q 3 6");
 //		Batch.add("D 11 5");
 //		Batch.add("F");
-		int nofB = 10;
+		int nofB = 1;
 		for (int n = 0; n < nofB; n++) {
 
 			ArrayList<String> Batch = generateBatchs(10, 10);
