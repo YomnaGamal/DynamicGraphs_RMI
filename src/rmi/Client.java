@@ -57,61 +57,70 @@ public class Client extends UnicastRemoteObject implements IRemote {
 				e1.printStackTrace();
 			}
 		}
-		ArrayList<String> Batch = new ArrayList<String>();
-		Batch.add("Q 1 3");
-		Batch.add("A 4 5");
-		Batch.add("Q 1 5");
-		Batch.add("Q 5 1");
-		Batch.add("Q 11 3");
-		Batch.add("F");
-		log.info("Batch contains:");
-		System.out.println("Batch contains:");
-		for (int i = 0; i < Batch.size(); i++) {
-			System.out.println(Batch.get(i));
-			log.info(Batch.get(i));
-		}
-//		log.debug("Batch generated successfully");
-		long startTime = System.currentTimeMillis();
-		ArrayList<String> result = service.executeBatch(Batch);
-		long endTime = System.currentTimeMillis();
-		log.info("Results calculated successfully");
-		log.info("Time of execution = " + (-startTime + endTime));
-		log.info("Start printing Result:");
-//		System.out.println("Results calculated successfully, Start printing it:");
-
-		for (int i = 0; i < result.size(); i++) {
-			System.out.println(result.get(i));
-			log.info(result.get(i));
-		}
-		log.info("End Batch");
-		
-		
-		
-//		int nofB = 0;
-//		for (int n = 0; n < nofB; n++) {
+//		ArrayList<String> Batch = new ArrayList<String>();
+//		Batch.add("Q 1 3");
+//		Batch.add("A 4 5");
+//		Batch.add("Q 1 5");
+//		Batch.add("Q 5 1");
+//		Batch.add("A 1 6");
+//		Batch.add("A 6 11");
+//		Batch.add("D 1 9");
+//		Batch.add("D 9 7");
+//		Batch.add("Q 6 14");
+//		Batch.add("Q 13 15");
 //
-//			ArrayList<String> Batch = generateBatchs(10, 10);
-//			log.info("Batch contains:");
-//			System.out.println("Batch contains:");
-//			for (int i = 0; i < Batch.size(); i++) {
-//				System.out.println(Batch.get(i));
-//				log.info(Batch.get(i));
-//			}
+//		Batch.add("F");
+//		log.info("Batch contains:");
+//		System.out.println("Batch contains:");
+//		for (int i = 0; i < Batch.size(); i++) {
+//			System.out.println(Batch.get(i));
+//			log.info(Batch.get(i));
+//		}
 ////		log.debug("Batch generated successfully");
-//			long startTime = System.currentTimeMillis();
-//			ArrayList<String> result = service.executeBatch(Batch);
-//			long endTime = System.currentTimeMillis();
-//			log.info("Results calculated successfully");
-//			log.info("Time of execution = " + (-startTime + endTime));
-//			log.info("Start printing Result:");
+//		long startTime = System.currentTimeMillis();
+//		ArrayList<String> result = service.executeBatch(Batch);
+//		long endTime = System.currentTimeMillis();
+//		log.info("Results calculated successfully");
+//		log.info("Time of execution = " + (-startTime + endTime));
+//		log.info("Start printing Result:");
 ////		System.out.println("Results calculated successfully, Start printing it:");
 //
-//			for (int i = 0; i < result.size(); i++) {
-//				System.out.println(result.get(i));
-//				log.info(result.get(i));
-//			}
-//			log.info("End Batch");
+//		for (int i = 0; i < result.size(); i++) {
+//			System.out.println(result.get(i));
+//			log.info(result.get(i));
 //		}
+//		log.info("End Batch");
+//		
+		
+		
+		int nofB = 8;
+		for (int n = 1; n <= nofB; n++) {
+			System.out.println("number of requests = "+(n*5));
+			ArrayList<String> Batch = generateBatchs(n*5, 10);
+			log.info("Batch contains:");
+			//System.out.println("Batch contains:");
+			for (int i = 0; i < Batch.size(); i++) {
+				//System.out.println(Batch.get(i));
+				log.info(Batch.get(i));
+			}
+//		log.debug("Batch generated successfully");
+			long startTime = System.currentTimeMillis();
+			ArrayList<String> result = service.executeBatch(Batch);
+			long endTime = System.currentTimeMillis();
+			System.out.println("Results calculated successfully");
+			System.out.println("Time of execution = " + (-startTime + endTime));
+			System.out.println("Start printing Result:");
+			log.info("Results calculated successfully");
+			log.info("Time of execution = " + (-startTime + endTime));
+			log.info("Start printing Result:");
+//		System.out.println("Results calculated successfully, Start printing it:");
+
+			for (int i = 0; i < result.size(); i++) {
+				System.out.println(result.get(i));
+				log.info(result.get(i));
+			}
+			log.info("End Batch");
+		}
 
 	}
 
