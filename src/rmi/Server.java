@@ -26,7 +26,7 @@ public class Server extends UnicastRemoteObject implements IRemote {
 	 * 
 	 */
 	private static final long serialVersionUID = 9129303223363938592L;
-	private final static String graphFileName = "graph";
+	private final static String graphFileName = "g1";
 	private final static String graphEnd = "S";
 	private final static String batchEnd = "F";
 	private ArrayList<ArrayList<Integer>> graph;

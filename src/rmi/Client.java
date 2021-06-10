@@ -17,13 +17,12 @@ public class Client extends UnicastRemoteObject implements IRemote {
 	 */
 	private static final long serialVersionUID = -4501269218926743441L;
 	static Logger log = Logger.getLogger(Client.class.getName());
+
 	protected Client() throws RemoteException {
 		super();
 		// TODO Auto-generated constructor stub
-		
+
 	}
-
-
 
 	public static void main(String[] args) throws MalformedURLException, RemoteException, NotBoundException {
 		// TODO Auto-generated method stub
@@ -33,7 +32,7 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		 * host"); System.exit(1); }
 		 */
 		System.setProperty("clientlog", "clientlog.out");
-        PropertyConfigurator.configure("src/log/log4j.properties");
+		PropertyConfigurator.configure("src/log/log4j.properties");
 
 		// Call registry for PowerService
 		IRemote service = (IRemote) Naming.lookup("rmi://" + "127.0.1.1" + ":" + "1099" + "/shortestPath");
@@ -58,40 +57,84 @@ public class Client extends UnicastRemoteObject implements IRemote {
 				e1.printStackTrace();
 			}
 		}
-//		ArrayList<String> Batch = new ArrayList<String>();
-//		Batch.add("Q 11 0");
-//		Batch.add("A 11 3");
-//		Batch.add("Q 11 10");
-//		Batch.add("Q 3 6");
-//		Batch.add("D 11 5");
-//		Batch.add("F");
-		int nofB = 1;
-		for (int n = 0; n < nofB; n++) {
-
-			ArrayList<String> Batch = generateBatchs(10, 10);
-			log.info("Batch contains:");
-			System.out.println("Batch contains:");
-			for (int i = 0; i < Batch.size(); i++) {
-				System.out.println(Batch.get(i));
-				log.info(Batch.get(i));
-			}
+		ArrayList<String> Batch = new ArrayList<String>();
+		Batch.add("Q 1 3");
+		Batch.add("A 4 5");
+		Batch.add("Q 1 5");
+		Batch.add("Q 5 1");
+		Batch.add("Q 11 3");
+		Batch.add("F");
+		log.info("Batch contains:");
+		System.out.println("Batch contains:");
+		for (int i = 0; i < Batch.size(); i++) {
+			System.out.println(Batch.get(i));
+			log.info(Batch.get(i));
+		}
 //		log.debug("Batch generated successfully");
-			long startTime = System.currentTimeMillis();
-			ArrayList<String> result = service.executeBatch(Batch);
-			long endTime = System.currentTimeMillis();
-			log.info("Results calculated successfully");
-			log.info("Time of execution = " + (-startTime + endTime));
-			log.info("Start printing Result:");
+		long startTime = System.currentTimeMillis();
+		ArrayList<String> result = service.executeBatch(Batch);
+		long endTime = System.currentTimeMillis();
+		log.info("Results calculated successfully");
+		log.info("Time of execution = " + (-startTime + endTime));
+		log.info("Start printing Result:");
 //		System.out.println("Results calculated successfully, Start printing it:");
 
-			for (int i = 0; i < result.size(); i++) {
-				System.out.println(result.get(i));
-				log.info(result.get(i));
-			}
-			log.info("End Batch");
+		for (int i = 0; i < result.size(); i++) {
+			System.out.println(result.get(i));
+			log.info(result.get(i));
 		}
+		log.info("End Batch");
+		
+		
+		
+//		int nofB = 0;
+//		for (int n = 0; n < nofB; n++) {
+//
+//			ArrayList<String> Batch = generateBatchs(10, 10);
+//			log.info("Batch contains:");
+//			System.out.println("Batch contains:");
+//			for (int i = 0; i < Batch.size(); i++) {
+//				System.out.println(Batch.get(i));
+//				log.info(Batch.get(i));
+//			}
+////		log.debug("Batch generated successfully");
+//			long startTime = System.currentTimeMillis();
+//			ArrayList<String> result = service.executeBatch(Batch);
+//			long endTime = System.currentTimeMillis();
+//			log.info("Results calculated successfully");
+//			log.info("Time of execution = " + (-startTime + endTime));
+//			log.info("Start printing Result:");
+////		System.out.println("Results calculated successfully, Start printing it:");
+//
+//			for (int i = 0; i < result.size(); i++) {
+//				System.out.println(result.get(i));
+//				log.info(result.get(i));
+//			}
+//			log.info("End Batch");
+//		}
 
 	}
+
+//	private static ArrayList<String> generateBatchs(int n, int k) {
+//		int i = 0;
+//		ArrayList<String> Batch = new ArrayList<String>();
+//		while (i < n) {
+//			StringBuilder salt = new StringBuilder();
+//			Random random = new Random();
+//			String s = "ADQ";
+//			int index = random.nextInt(s.length());
+//			salt.append(s.charAt(index));
+//			salt.append(" ");
+//			salt.append(Integer.toString(random.nextInt(k) + 1));
+//			salt.append(" ");
+//			salt.append(Integer.toString(random.nextInt(k) + 1));
+//			String saltStr = salt.toString();
+//			Batch.add(saltStr);
+//			i++;
+//		}
+//		Batch.add("F");
+//		return Batch;
+//	}
 
 	private static ArrayList<String> generateBatchs(int n, int k) {
 		int i = 0;
@@ -99,16 +142,29 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		while (i < n) {
 			StringBuilder salt = new StringBuilder();
 			Random random = new Random();
-			String s = "ADQ";
-			int index = random.nextInt(s.length());
-			salt.append(s.charAt(index));
-			salt.append(" ");
-			salt.append(Integer.toString(random.nextInt(k) + 1));
-			salt.append(" ");
-			salt.append(Integer.toString(random.nextInt(k) + 1));
-			String saltStr = salt.toString();
-			Batch.add(saltStr);
-			i++;
+			double readpercent = 0.4;
+			double r = Math.random();
+			if (r < readpercent) {
+				salt.append("Q");
+				salt.append(" ");
+				salt.append(Integer.toString(random.nextInt(k) + 1));
+				salt.append(" ");
+				salt.append(Integer.toString(random.nextInt(k) + 1));
+				String saltStr = salt.toString();
+				Batch.add(saltStr);
+				i++;
+			} else {
+				String s = "AD";
+				int index = random.nextInt(s.length());
+				salt.append(s.charAt(index));
+				salt.append(" ");
+				salt.append(Integer.toString(random.nextInt(k) + 1));
+				salt.append(" ");
+				salt.append(Integer.toString(random.nextInt(k) + 1));
+				String saltStr = salt.toString();
+				Batch.add(saltStr);
+				i++;
+			}
 		}
 		Batch.add("F");
 		return Batch;
