@@ -93,10 +93,11 @@ public class Client extends UnicastRemoteObject implements IRemote {
 //		
 		
 		
-		int nofB = 8;
+		int nofB = 9;
 		for (int n = 1; n <= nofB; n++) {
-			System.out.println("number of requests = "+(n*10));
-			ArrayList<String> Batch = generateBatchs(n*10, 10);
+			System.out.println("number of requests = "+(10));
+			double percentow = nofB*0.1;
+			ArrayList<String> Batch = generateBatchs(10, 10, percentow);
 			log.info("Batch contains:");
 			//System.out.println("Batch contains:");
 			for (int i = 0; i < Batch.size(); i++) {
@@ -145,13 +146,13 @@ public class Client extends UnicastRemoteObject implements IRemote {
 //		return Batch;
 //	}
 
-	private static ArrayList<String> generateBatchs(int n, int k) {
+	private static ArrayList<String> generateBatchs(int n, int k, double percentow) {
 		int i = 0;
 		ArrayList<String> Batch = new ArrayList<String>();
 		while (i < n) {
 			StringBuilder salt = new StringBuilder();
 			Random random = new Random();
-			double readpercent = 0.6;
+			double readpercent = 1 - percentow;
 			double r = Math.random();
 			if (r < readpercent) {
 				salt.append("Q");

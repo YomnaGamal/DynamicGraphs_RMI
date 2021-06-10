@@ -130,3 +130,655 @@ Server is running
 Server is running
 Server is running
 Server is running
+Server is running
+Server is running
+Batch contains:
+D 6 9
+Q 3 10
+Q 4 10
+Q 5 10
+Q 9 5
+D 9 4
+Q 10 2
+Q 2 10
+A 8 4
+Q 1 3
+F
+the Thread ID=19
+the execution Time:6091 ms
+Results calculated successfully
+Time of execution = 6101
+Start printing Result:
+-1
+-1
+-1
+-1
+-1
+-1
+2
+End Batch
+Batch contains:
+Q 7 1
+Q 9 1
+Q 3 1
+A 3 6
+A 7 7
+Q 9 6
+Q 3 1
+A 6 8
+A 3 5
+D 2 6
+A 4 5
+Q 10 7
+Q 3 3
+A 9 1
+A 6 1
+Q 5 3
+Q 6 8
+Q 9 7
+Q 2 3
+A 5 7
+F
+the Thread ID=19
+the execution Time:10239 ms
+Results calculated successfully
+Time of execution = 10245
+Start printing Result:
+-1
+-1
+1
+-1
+1
+-1
+0
+-1
+1
+-1
+1
+End Batch
+Batch contains:
+A 10 1
+Q 3 1
+D 6 10
+A 6 7
+Q 6 5
+Q 3 10
+Q 10 9
+A 7 8
+Q 5 3
+Q 10 5
+Q 1 4
+Q 7 3
+Q 3 10
+Q 7 5
+Q 6 1
+D 5 4
+Q 1 10
+D 3 5
+Q 9 6
+D 1 2
+Q 5 10
+Q 6 7
+Q 5 8
+A 6 5
+Q 6 6
+Q 10 10
+Q 6 3
+D 2 7
+A 9 2
+Q 3 8
+F
+the Thread ID=22
+the execution Time:4289 ms
+the Thread ID=19
+the execution Time:13561 ms
+Results calculated successfully
+Time of execution = 13567
+Start printing Result:
+1
+3
+-1
+-1
+6
+4
+2
+5
+-1
+3
+1
+-1
+4
+-1
+1
+2
+0
+0
+-1
+2
+End Batch
+Batch contains:
+Q 3 10
+Q 1 7
+Q 3 1
+Q 5 5
+D 9 1
+D 4 2
+D 5 10
+A 3 10
+A 1 1
+D 8 7
+A 9 7
+Q 2 4
+Q 2 1
+D 5 8
+A 10 3
+D 9 4
+Q 10 5
+Q 3 5
+Q 10 8
+Q 4 7
+D 7 3
+Q 1 7
+Q 5 5
+Q 1 6
+A 6 3
+A 9 9
+A 2 9
+D 1 9
+Q 9 1
+Q 5 3
+A 10 9
+A 3 7
+A 6 9
+Q 7 6
+Q 4 8
+Q 3 7
+A 1 6
+Q 1 4
+Q 1 10
+Q 4 2
+F
+the Thread ID=22
+the execution Time:9814 ms
+the Thread ID=19
+the execution Time:19660 ms
+Results calculated successfully
+Time of execution = 19673
+Start printing Result:
+-1
+-1
+1
+0
+1
+2
+1
+2
+3
+2
+3
+0
+2
+3
+5
+5
+3
+1
+2
+1
+2
+End Batch
+Batch contains:
+Q 2 8
+Q 4 4
+Q 4 2
+A 4 1
+Q 4 6
+D 10 3
+D 6 3
+Q 5 4
+D 1 10
+Q 8 8
+Q 2 7
+D 9 4
+Q 6 10
+Q 9 4
+Q 6 8
+A 6 7
+A 7 9
+Q 3 4
+Q 5 5
+Q 8 10
+Q 9 8
+Q 8 4
+A 4 1
+Q 7 4
+Q 8 10
+A 5 5
+D 5 2
+D 1 7
+A 6 4
+Q 9 1
+Q 10 10
+Q 10 9
+Q 1 9
+Q 7 9
+A 6 1
+Q 2 3
+Q 10 5
+Q 9 8
+Q 8 5
+Q 9 8
+Q 1 2
+Q 9 5
+A 1 3
+Q 8 8
+Q 9 6
+Q 10 5
+A 1 9
+Q 7 1
+D 5 1
+Q 5 5
+F
+the Thread ID=22
+the execution Time:15288 ms
+the Thread ID=22
+the execution Time:18935 ms
+the Thread ID=19
+the execution Time:23950 ms
+the Thread ID=22
+the execution Time:26208 ms
+the Thread ID=22
+the execution Time:25792 ms
+Results calculated successfully
+Time of execution = 23953
+Start printing Result:
+3
+0
+2
+2
+3
+0
+2
+3
+2
+1
+2
+0
+2
+2
+1
+2
+2
+3
+0
+1
+2
+1
+1
+1
+2
+2
+2
+3
+2
+0
+3
+1
+2
+0
+End Batch
+Batch contains:
+Q 5 2
+Q 7 1
+A 6 8
+Q 7 5
+D 5 1
+Q 7 1
+D 1 5
+Q 2 5
+A 10 4
+Q 10 8
+Q 2 9
+D 10 6
+A 7 2
+Q 2 1
+D 6 7
+Q 3 3
+A 7 7
+D 6 9
+D 1 1
+Q 6 1
+Q 9 2
+Q 1 5
+A 1 8
+Q 10 2
+D 5 10
+A 8 4
+D 3 5
+Q 6 10
+Q 2 8
+A 7 4
+Q 4 7
+Q 3 4
+A 3 8
+A 10 10
+Q 3 8
+D 2 4
+Q 4 6
+Q 1 5
+A 8 5
+D 7 6
+Q 5 5
+Q 7 3
+A 1 5
+D 5 10
+Q 2 9
+A 8 7
+Q 10 10
+A 10 9
+Q 9 9
+Q 3 2
+A 5 2
+Q 10 7
+Q 7 6
+Q 7 8
+D 8 3
+Q 8 3
+Q 2 3
+Q 8 9
+A 7 10
+A 9 3
+F
+the Thread ID=22
+the execution Time:30828 ms
+the Thread ID=19
+the execution Time:29599 ms
+Results calculated successfully
+Time of execution = 29601
+Start printing Result:
+3
+2
+1
+2
+1
+2
+2
+1
+0
+1
+1
+2
+2
+2
+1
+1
+1
+1
+1
+2
+0
+2
+2
+0
+0
+2
+1
+2
+1
+2
+2
+1
+End Batch
+Batch contains:
+Q 6 3
+Q 5 1
+A 1 6
+D 9 9
+Q 9 2
+D 7 6
+D 2 4
+Q 8 10
+Q 10 4
+D 4 9
+Q 3 7
+D 1 10
+Q 1 2
+Q 1 1
+Q 8 3
+Q 3 10
+D 1 2
+Q 8 3
+Q 7 2
+D 1 2
+A 2 9
+A 3 7
+Q 8 1
+Q 9 9
+A 9 3
+A 1 4
+D 3 2
+Q 3 6
+D 4 9
+Q 4 7
+D 4 3
+Q 1 5
+Q 10 2
+A 9 5
+Q 1 7
+Q 4 6
+Q 1 5
+A 5 6
+Q 2 6
+Q 5 5
+A 4 7
+D 7 4
+Q 2 1
+A 10 5
+D 5 10
+Q 9 1
+Q 4 1
+A 9 1
+A 1 3
+D 8 7
+A 8 1
+A 9 2
+A 9 7
+A 7 10
+Q 1 9
+D 9 8
+D 4 10
+D 5 4
+A 3 5
+Q 6 7
+Q 5 1
+Q 8 6
+A 3 8
+Q 8 2
+Q 7 1
+Q 10 2
+Q 6 6
+D 1 10
+Q 2 4
+Q 7 4
+F
+the Thread ID=19
+the execution Time:34402 ms
+Results calculated successfully
+Time of execution = 34407
+Start printing Result:
+2
+2
+1
+2
+1
+1
+2
+0
+2
+1
+2
+1
+1
+0
+1
+1
+1
+2
+2
+1
+1
+1
+0
+1
+2
+1
+1
+1
+2
+2
+1
+2
+2
+0
+2
+1
+End Batch
+Batch contains:
+D 4 1
+Q 10 8
+Q 2 2
+Q 5 2
+Q 3 2
+Q 4 10
+Q 1 6
+Q 6 5
+D 9 6
+Q 8 5
+D 5 1
+A 5 7
+A 2 3
+D 7 9
+Q 8 7
+Q 4 10
+D 10 6
+Q 1 2
+A 8 6
+Q 5 9
+A 10 10
+Q 10 5
+D 4 1
+Q 3 7
+Q 8 6
+A 4 3
+Q 1 4
+Q 7 2
+Q 10 3
+A 1 7
+Q 9 4
+A 3 6
+Q 8 4
+A 2 4
+Q 2 4
+Q 6 6
+Q 2 2
+Q 7 4
+Q 7 8
+A 10 3
+Q 5 2
+A 7 10
+Q 6 5
+D 4 6
+D 9 5
+A 1 10
+Q 1 10
+D 9 10
+Q 9 7
+A 2 2
+D 10 10
+Q 6 6
+Q 2 6
+Q 6 4
+Q 3 6
+A 4 3
+Q 2 4
+A 7 1
+Q 8 9
+D 1 2
+Q 8 3
+Q 7 7
+Q 5 6
+Q 9 7
+D 6 10
+D 3 3
+A 5 4
+Q 10 9
+Q 7 8
+Q 9 3
+Q 7 6
+Q 6 4
+Q 4 6
+D 4 10
+Q 6 3
+D 10 1
+Q 9 10
+Q 4 8
+A 10 9
+Q 4 5
+F
+the Thread ID=22
+the execution Time:41217 ms
+the Thread ID=19
+the execution Time:37748 ms
+Results calculated successfully
+Time of execution = 37756
+Start printing Result:
+2
+0
+1
+2
+2
+1
+2
+1
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+2
+1
+1
+0
+1
+1
+1
+1
+1
+2
+0
+1
+1
+1
+1
+1
+2
+1
+2
+2
+2
+2
+1
+End Batch
