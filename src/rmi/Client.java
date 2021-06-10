@@ -95,8 +95,8 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		
 		int nofB = 9;
 		for (int n = 1; n <= nofB; n++) {
-			System.out.println("number of requests = "+(10));
-			double percentow = nofB*0.1;
+			double percentow = n*0.1;
+			System.out.println("percent of write = "+(percentow));
 			ArrayList<String> Batch = generateBatchs(10, 10, percentow);
 			log.info("Batch contains:");
 			//System.out.println("Batch contains:");

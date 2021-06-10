@@ -782,3 +782,213 @@ Start printing Result:
 2
 1
 End Batch
+the Thread ID=26
+the execution Time:3472 ms
+the Thread ID=26
+the execution Time:4216 ms
+the Thread ID=26
+the execution Time:5742 ms
+the Thread ID=26
+the execution Time:5126 ms
+Server is running
+Batch contains:
+A 3 5
+D 10 7
+D 2 8
+D 5 6
+D 2 8
+A 2 5
+A 6 9
+D 5 7
+A 6 4
+D 10 9
+F
+the Thread ID=28
+the execution Time:3138 ms
+Results calculated successfully
+Time of execution = 3142
+Start printing Result:
+End Batch
+Batch contains:
+D 2 4
+D 4 1
+A 1 3
+D 5 3
+A 4 8
+D 6 7
+D 5 5
+A 1 5
+A 7 5
+A 4 3
+F
+the Thread ID=30
+the execution Time:4255 ms
+the Thread ID=28
+the execution Time:6166 ms
+Results calculated successfully
+Time of execution = 6171
+Start printing Result:
+End Batch
+Batch contains:
+A 10 5
+A 5 3
+D 9 2
+D 3 9
+D 8 4
+D 3 8
+D 4 1
+D 7 1
+D 1 6
+D 7 5
+F
+the Thread ID=30
+the execution Time:4801 ms
+the Thread ID=28
+the execution Time:3994 ms
+Results calculated successfully
+Time of execution = 3999
+Start printing Result:
+End Batch
+Batch contains:
+A 5 8
+D 6 4
+A 4 8
+A 6 5
+A 7 2
+A 10 10
+D 2 8
+A 5 10
+A 8 9
+A 3 9
+F
+the Thread ID=30
+the execution Time:5330 ms
+the Thread ID=28
+the execution Time:5993 ms
+Results calculated successfully
+Time of execution = 5998
+Start printing Result:
+End Batch
+Batch contains:
+D 6 8
+D 9 4
+D 2 6
+A 8 9
+A 7 6
+A 8 2
+A 8 8
+D 2 3
+D 8 5
+Q 9 1
+F
+the Thread ID=30
+the execution Time:5393 ms
+the Thread ID=28
+the execution Time:5033 ms
+Results calculated successfully
+Time of execution = 5036
+Start printing Result:
+1
+End Batch
+Batch contains:
+Q 7 2
+A 1 3
+A 9 2
+D 8 9
+A 9 9
+D 2 6
+A 2 10
+A 8 5
+A 3 6
+D 9 9
+F
+the Thread ID=30
+the execution Time:5212 ms
+the Thread ID=28
+the execution Time:4260 ms
+Results calculated successfully
+Time of execution = 4263
+Start printing Result:
+1
+End Batch
+Batch contains:
+Q 10 7
+D 2 9
+Q 10 2
+D 2 5
+D 1 5
+A 6 2
+D 9 5
+Q 5 2
+A 10 10
+D 10 5
+F
+the Thread ID=28
+the execution Time:5425 ms
+Results calculated successfully
+Time of execution = 5432
+Start printing Result:
+1
+1
+1
+End Batch
+Batch contains:
+D 8 2
+A 4 5
+Q 10 8
+D 7 10
+A 7 5
+A 2 9
+A 1 3
+A 9 6
+D 2 3
+D 1 1
+F
+the Thread ID=30
+the execution Time:7080 ms
+the Thread ID=28
+the execution Time:4510 ms
+Results calculated successfully
+Time of execution = 4522
+Start printing Result:
+1
+End Batch
+Batch contains:
+A 8 6
+A 4 9
+Q 1 4
+D 2 6
+D 2 8
+D 9 10
+D 4 1
+A 9 4
+A 7 7
+D 2 10
+F
+the Thread ID=30
+the execution Time:5837 ms
+the Thread ID=28
+the execution Time:3815 ms
+Results calculated successfully
+Time of execution = 3820
+Start printing Result:
+1
+End Batch
+the Thread ID=30
+the execution Time:3925 ms
+the Thread ID=30
+the execution Time:4684 ms
+the Thread ID=30
+the execution Time:4844 ms
+the Thread ID=30
+the execution Time:5901 ms
+the Thread ID=30
+the execution Time:5185 ms
+the Thread ID=30
+the execution Time:3551 ms
+the Thread ID=30
+the execution Time:3948 ms
+the Thread ID=30
+the execution Time:4660 ms
+the Thread ID=30
+the execution Time:4289 ms
