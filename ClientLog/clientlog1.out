@@ -1,0 +1,7708 @@
+Server is running
+Batch contains:
+Q 4 2
+Q 7 2
+Q 2 4
+D 3 9
+Q 6 5
+Q 5 2
+Q 4 1
+D 3 9
+Q 5 9
+Q 7 9
+F
+Results calculated successfully
+Time of execution = 5990
+Start printing Result:
+2
+3
+1
+-1
+-1
+1
+-1
+-1
+End Batch
+Batch contains:
+A 3 8
+Q 9 8
+Q 1 1
+D 4 10
+A 10 9
+Q 1 10
+Q 10 6
+Q 10 8
+Q 2 2
+A 1 8
+F
+Results calculated successfully
+Time of execution = 5631
+Start printing Result:
+3
+0
+1
+3
+2
+0
+End Batch
+Batch contains:
+Q 2 2
+Q 2 5
+Q 8 5
+Q 7 9
+Q 9 5
+Q 5 2
+A 4 4
+Q 6 4
+Q 5 7
+Q 1 5
+F
+Results calculated successfully
+Time of execution = 3813
+Start printing Result:
+0
+2
+-1
+4
+2
+-1
+-1
+-1
+1
+End Batch
+Batch contains:
+Q 3 5
+Q 4 4
+A 9 2
+D 9 5
+Q 10 10
+Q 8 1
+Q 7 9
+D 1 2
+A 7 7
+Q 7 6
+F
+Results calculated successfully
+Time of execution = 6484
+Start printing Result:
+1
+0
+0
+-1
+4
+6
+End Batch
+Batch contains:
+Q 7 6
+Q 2 6
+Q 8 2
+Q 7 5
+A 3 5
+Q 6 8
+Q 7 1
+Q 4 10
+Q 7 1
+Q 10 4
+F
+Results calculated successfully
+Time of execution = 5102
+Start printing Result:
+6
+1
+-1
+1
+-1
+2
+2
+2
+2
+End Batch
+Batch contains:
+A 4 5
+A 7 8
+D 2 9
+Q 1 1
+Q 5 5
+Q 9 1
+Q 2 3
+Q 4 1
+D 6 1
+Q 7 3
+F
+Results calculated successfully
+Time of execution = 5233
+Start printing Result:
+0
+0
+1
+1
+1
+4
+End Batch
+Batch contains:
+D 7 6
+D 2 1
+D 8 1
+D 5 1
+Q 7 9
+D 8 6
+A 8 6
+Q 4 4
+D 6 6
+D 4 3
+F
+Results calculated successfully
+Time of execution = 6239
+Start printing Result:
+4
+0
+End Batch
+Batch contains:
+A 5 7
+D 7 3
+A 2 1
+A 1 8
+D 4 1
+A 10 7
+Q 2 1
+Q 6 3
+D 7 6
+Q 10 1
+F
+Results calculated successfully
+Time of execution = 5277
+Start printing Result:
+1
+-1
+2
+End Batch
+Batch contains:
+D 2 6
+A 4 9
+Q 1 8
+A 3 7
+D 1 9
+D 5 4
+A 6 8
+Q 10 8
+D 7 10
+A 6 7
+F
+Results calculated successfully
+Time of execution = 4787
+Start printing Result:
+1
+1
+End Batch
+Server is running
+Batch contains:
+Q 6 1
+Q 9 9
+Q 2 7
+Q 3 2
+Q 5 8
+Q 5 7
+Q 6 7
+Q 3 9
+Q 3 6
+Q 2 1
+F
+Server is running
+Batch contains:
+D 1 10
+Q 7 9
+Q 6 3
+Q 6 4
+Q 2 7
+A 8 1
+Q 3 2
+Q 7 10
+Q 4 5
+Q 4 4
+F
+Server is running
+Batch contains:
+Q 8 4
+D 9 1
+Q 7 1
+Q 5 10
+Q 2 4
+Q 9 3
+Q 5 10
+D 1 1
+Q 10 2
+Q 3 2
+F
+Results calculated successfully
+Time of execution = 21872
+Start printing Result:
+3
+2
+2
+1
+2
+2
+2
+1
+End Batch
+Batch contains:
+D 4 9
+Q 2 9
+Q 2 10
+Q 2 7
+Q 8 2
+Q 4 4
+Q 7 2
+Q 8 2
+Q 8 3
+Q 6 5
+F
+Results calculated successfully
+Time of execution = 6198
+Start printing Result:
+3
+3
+2
+3
+0
+2
+3
+2
+2
+End Batch
+Batch contains:
+Q 3 6
+Q 7 2
+A 6 2
+A 8 1
+Q 5 7
+A 10 1
+Q 6 6
+Q 2 5
+Q 7 2
+Q 7 3
+F
+Results calculated successfully
+Time of execution = 184421
+Start printing Result:
+2
+2
+1
+0
+2
+2
+2
+End Batch
+Batch contains:
+A 3 1
+Q 2 3
+Q 5 4
+A 6 9
+Q 9 4
+A 10 3
+Q 7 6
+D 1 1
+A 2 1
+Q 9 4
+F
+Results calculated successfully
+Time of execution = 5163
+Start printing Result:
+1
+2
+2
+2
+2
+End Batch
+Batch contains:
+Q 1 1
+D 6 6
+D 2 4
+Q 6 3
+A 7 7
+Q 3 4
+D 2 4
+D 10 9
+Q 9 10
+Q 3 5
+F
+Results calculated successfully
+Time of execution = 4522
+Start printing Result:
+0
+2
+1
+2
+1
+End Batch
+Batch contains:
+A 7 2
+D 4 3
+A 10 1
+D 2 9
+Q 9 7
+A 1 5
+A 3 3
+A 8 9
+A 6 2
+A 7 7
+F
+Results calculated successfully
+Time of execution = 5029
+Start printing Result:
+1
+End Batch
+Batch contains:
+Q 8 1
+Q 2 8
+A 5 5
+A 5 8
+A 1 6
+Q 6 7
+D 8 2
+A 1 1
+Q 2 9
+Q 1 7
+F
+Server is running
+Batch contains:
+Q 4 8
+Q 8 1
+Q 5 9
+Q 5 8
+Q 7 6
+Q 1 9
+Q 6 9
+Q 3 7
+Q 7 9
+Q 7 2
+F
+Server is running
+Batch contains:
+A 3 2
+Q 7 6
+Q 9 5
+Q 9 5
+Q 9 7
+Q 8 9
+Q 4 1
+Q 1 6
+Q 10 2
+A 5 1
+F
+Results calculated successfully
+Time of execution = 6603
+Start printing Result:
+-1
+-1
+-1
+-1
+-1
+1
+-1
+-1
+End Batch
+Batch contains:
+Q 4 2
+D 2 8
+D 10 2
+Q 8 10
+D 10 6
+Q 7 1
+Q 8 10
+Q 4 1
+Q 9 9
+Q 5 7
+F
+Results calculated successfully
+Time of execution = 5469
+Start printing Result:
+2
+-1
+-1
+-1
+1
+-1
+-1
+End Batch
+Batch contains:
+Q 7 5
+Q 6 4
+Q 10 7
+A 5 2
+Q 6 4
+A 1 3
+Q 8 7
+Q 2 3
+Q 9 4
+Q 1 9
+F
+Results calculated successfully
+Time of execution = 4111
+Start printing Result:
+-1
+-1
+-1
+-1
+-1
+1
+-1
+-1
+End Batch
+Batch contains:
+Q 10 7
+Q 2 4
+Q 9 1
+Q 9 10
+Q 9 7
+D 2 6
+Q 4 4
+A 9 9
+Q 2 4
+D 8 8
+F
+Results calculated successfully
+Time of execution = 4049
+Start printing Result:
+-1
+1
+-1
+-1
+-1
+0
+1
+End Batch
+Batch contains:
+Q 7 10
+Q 10 1
+D 7 10
+D 6 10
+A 10 8
+Q 9 2
+Q 4 1
+Q 4 8
+D 3 2
+D 9 1
+F
+Results calculated successfully
+Time of execution = 5876
+Start printing Result:
+-1
+-1
+-1
+1
+-1
+End Batch
+Batch contains:
+Q 7 5
+A 5 7
+Q 6 7
+A 8 9
+Q 4 5
+Q 4 2
+D 2 1
+D 2 8
+Q 2 5
+A 2 1
+F
+Results calculated successfully
+Time of execution = 5039
+Start printing Result:
+-1
+-1
+-1
+2
+-1
+End Batch
+Batch contains:
+D 6 4
+D 2 3
+A 10 4
+Q 9 2
+D 4 5
+Q 6 3
+Q 4 8
+A 10 1
+D 2 1
+A 4 4
+F
+Results calculated successfully
+Time of execution = 4221
+Start printing Result:
+-1
+-1
+-1
+End Batch
+Batch contains:
+A 8 8
+A 9 7
+D 10 6
+A 4 2
+A 10 9
+Q 2 7
+A 6 3
+D 10 2
+Q 7 3
+D 4 2
+F
+Results calculated successfully
+Time of execution = 4805
+Start printing Result:
+-1
+-1
+End Batch
+Batch contains:
+A 5 5
+D 5 1
+D 6 3
+A 5 5
+D 8 7
+A 6 4
+A 3 7
+A 8 8
+A 5 8
+D 9 6
+F
+Results calculated successfully
+Time of execution = 5225
+Start printing Result:
+End Batch
+Server is running
+Batch contains:
+Q 6 3
+Q 9 7
+Q 9 8
+Q 5 6
+Q 8 5
+Q 2 2
+Q 6 6
+Q 2 9
+D 1 1
+Q 9 10
+F
+Results calculated successfully
+Time of execution = 3548
+Start printing Result:
+3
+1
+-1
+-1
+-1
+0
+0
+-1
+-1
+End Batch
+Batch contains:
+Q 5 7
+Q 5 8
+Q 7 8
+Q 10 8
+A 1 9
+Q 5 5
+D 10 3
+Q 8 9
+Q 9 10
+Q 2 1
+F
+Results calculated successfully
+Time of execution = 5272
+Start printing Result:
+1
+1
+-1
+1
+0
+1
+-1
+2
+End Batch
+Batch contains:
+Q 9 7
+A 4 9
+Q 1 1
+Q 3 10
+Q 5 2
+A 1 6
+A 4 3
+Q 4 6
+A 6 3
+Q 2 6
+F
+Results calculated successfully
+Time of execution = 4053
+Start printing Result:
+1
+0
+-1
+1
+2
+3
+End Batch
+Batch contains:
+D 1 7
+Q 5 1
+Q 8 8
+Q 2 3
+Q 1 10
+D 1 2
+D 10 10
+Q 7 6
+A 4 5
+Q 7 4
+F
+Results calculated successfully
+Time of execution = 4669
+Start printing Result:
+2
+0
+2
+-1
+2
+3
+End Batch
+Batch contains:
+Q 1 5
+A 1 9
+Q 3 8
+D 3 7
+D 5 6
+Q 4 3
+Q 6 10
+Q 3 2
+Q 6 7
+D 5 10
+F
+Results calculated successfully
+Time of execution = 4264
+Start printing Result:
+3
+3
+1
+-1
+5
+2
+End Batch
+Batch contains:
+A 6 7
+D 7 3
+A 8 10
+D 5 2
+A 10 10
+A 8 7
+Q 9 9
+Q 8 9
+D 10 4
+A 8 5
+F
+Results calculated successfully
+Time of execution = 6126
+Start printing Result:
+0
+1
+End Batch
+Batch contains:
+Q 8 5
+A 8 2
+D 4 3
+Q 7 9
+A 5 4
+D 8 9
+A 7 6
+Q 3 5
+A 5 10
+Q 7 5
+F
+Results calculated successfully
+Time of execution = 2181
+Start printing Result:
+1
+2
+2
+3
+End Batch
+Batch contains:
+A 1 10
+A 2 5
+D 10 9
+D 7 7
+D 10 6
+Q 8 4
+Q 3 1
+A 8 5
+D 6 5
+Q 4 10
+F
+Results calculated successfully
+Time of execution = 6133
+Start printing Result:
+2
+1
+2
+End Batch
+Batch contains:
+D 8 2
+A 6 6
+Q 6 1
+D 3 5
+D 2 9
+D 2 6
+D 5 10
+D 5 9
+D 9 7
+A 1 8
+F
+Results calculated successfully
+Time of execution = 4761
+Start printing Result:
+2
+End Batch
+Server is running
+Batch contains:
+A 2 4
+Q 3 3
+D 6 1
+Q 6 8
+D 6 8
+A 4 3
+Q 7 3
+Q 2 10
+A 6 5
+A 2 6
+F
+Results calculated successfully
+Time of execution = 3840
+Start printing Result:
+0
+3
+2
+3
+End Batch
+Batch contains:
+Q 4 3
+Q 10 10
+D 10 6
+Q 3 5
+D 5 8
+Q 4 1
+D 5 1
+Q 8 10
+Q 6 9
+A 6 3
+Q 9 1
+Q 8 6
+D 3 3
+A 10 5
+Q 5 7
+Q 7 1
+Q 7 9
+Q 5 6
+Q 4 2
+Q 6 8
+F
+Results calculated successfully
+Time of execution = 8701
+Start printing Result:
+1
+0
+2
+1
+1
+2
+2
+2
+1
+1
+2
+2
+2
+3
+End Batch
+Batch contains:
+D 7 7
+Q 10 8
+Q 6 7
+A 2 6
+Q 6 6
+Q 1 4
+A 9 10
+Q 10 5
+A 6 7
+D 4 8
+A 2 6
+D 6 4
+Q 10 4
+D 6 1
+Q 10 6
+Q 2 6
+Q 1 10
+Q 1 7
+D 1 8
+A 3 8
+A 2 4
+Q 7 2
+Q 4 10
+A 10 9
+Q 2 10
+Q 7 8
+A 4 10
+A 10 7
+Q 7 1
+D 8 5
+F
+Results calculated successfully
+Time of execution = 17052
+Start printing Result:
+2
+1
+0
+2
+1
+1
+2
+1
+1
+2
+3
+2
+2
+3
+1
+End Batch
+Batch contains:
+Q 7 2
+D 5 2
+Q 6 6
+Q 6 6
+Q 1 10
+Q 10 1
+Q 2 3
+A 6 8
+Q 8 9
+Q 10 1
+Q 8 1
+D 4 1
+Q 4 8
+A 8 7
+Q 7 8
+Q 9 6
+A 7 4
+D 6 10
+D 3 9
+Q 5 7
+Q 8 7
+D 6 8
+D 4 10
+Q 9 4
+D 10 4
+Q 9 10
+A 4 7
+A 1 9
+Q 2 3
+Q 9 2
+Q 5 1
+D 9 3
+Q 10 8
+Q 5 1
+Q 9 8
+A 1 8
+Q 9 8
+A 6 1
+Q 7 2
+Q 4 9
+F
+Results calculated successfully
+Time of execution = 21006
+Start printing Result:
+3
+0
+0
+1
+1
+1
+2
+1
+1
+2
+2
+2
+1
+1
+1
+1
+1
+3
+1
+2
+1
+1
+1
+3
+1
+End Batch
+Batch contains:
+A 1 8
+A 3 6
+A 9 10
+Q 6 1
+A 9 5
+A 1 7
+D 5 6
+A 5 3
+A 9 5
+Q 9 1
+Q 5 3
+D 5 8
+Q 5 8
+Q 9 4
+A 5 5
+D 6 10
+Q 8 8
+A 1 10
+Q 7 6
+D 2 10
+Q 4 10
+Q 9 6
+A 10 9
+D 3 8
+A 4 8
+D 2 2
+A 5 2
+Q 10 6
+Q 10 3
+A 4 10
+A 10 5
+Q 6 1
+Q 7 9
+Q 10 6
+Q 4 3
+Q 4 6
+Q 1 2
+D 1 7
+Q 1 4
+A 4 5
+Q 1 7
+Q 1 1
+Q 2 3
+D 9 6
+Q 3 7
+Q 4 10
+Q 2 9
+Q 4 1
+Q 2 4
+D 1 4
+F
+Results calculated successfully
+Time of execution = 27318
+Start printing Result:
+1
+2
+1
+2
+1
+0
+1
+2
+2
+2
+1
+1
+2
+2
+1
+1
+2
+2
+2
+0
+1
+2
+1
+2
+1
+1
+End Batch
+Batch contains:
+Q 8 8
+Q 9 3
+Q 4 1
+D 3 6
+Q 6 9
+D 3 7
+Q 3 7
+A 5 5
+D 2 10
+Q 3 3
+D 3 5
+Q 10 2
+A 3 3
+Q 4 8
+D 9 10
+Q 8 6
+D 5 1
+Q 10 10
+D 8 3
+Q 10 5
+Q 8 2
+Q 6 2
+Q 7 4
+Q 8 4
+D 1 5
+D 4 5
+Q 7 10
+A 7 10
+Q 3 10
+A 5 4
+Q 10 4
+A 8 6
+D 1 10
+Q 5 4
+A 5 5
+A 9 3
+Q 6 4
+D 7 6
+Q 6 9
+Q 1 6
+Q 3 10
+Q 10 8
+D 6 1
+A 1 7
+D 10 7
+D 10 10
+D 4 8
+D 3 6
+D 6 8
+A 9 1
+D 7 5
+Q 4 3
+D 9 10
+A 1 9
+Q 7 4
+D 5 1
+Q 7 2
+Q 6 4
+A 4 5
+Q 10 2
+F
+Results calculated successfully
+Time of execution = 33788
+Start printing Result:
+0
+2
+1
+2
+2
+0
+2
+1
+2
+0
+1
+2
+1
+1
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+1
+1
+2
+2
+2
+End Batch
+Batch contains:
+D 4 5
+D 5 9
+Q 7 3
+A 8 1
+A 1 1
+Q 9 8
+D 1 5
+Q 3 7
+Q 7 2
+Q 10 9
+Q 3 2
+A 5 7
+D 5 3
+D 9 3
+D 7 8
+Q 6 7
+D 3 2
+Q 3 6
+Q 9 6
+D 5 1
+Q 9 1
+D 6 10
+D 2 4
+Q 4 7
+Q 5 2
+A 2 4
+A 2 9
+Q 10 9
+D 1 2
+A 7 8
+Q 4 6
+A 6 6
+Q 1 2
+Q 10 9
+Q 4 6
+Q 4 9
+Q 6 7
+Q 9 5
+Q 6 2
+Q 6 4
+A 5 3
+Q 10 10
+Q 4 2
+Q 5 1
+Q 1 4
+A 8 4
+Q 2 7
+A 3 7
+Q 7 7
+Q 8 6
+Q 9 3
+A 3 3
+Q 5 2
+D 10 6
+A 9 9
+Q 3 6
+D 3 9
+Q 2 9
+Q 7 10
+D 1 8
+Q 5 10
+Q 4 2
+Q 9 4
+D 1 6
+Q 10 6
+Q 1 2
+Q 7 4
+A 7 4
+Q 9 5
+Q 8 2
+F
+Results calculated successfully
+Time of execution = 32077
+Start printing Result:
+1
+1
+2
+2
+1
+1
+1
+2
+2
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+0
+1
+2
+1
+1
+0
+1
+2
+1
+2
+1
+1
+2
+2
+1
+2
+2
+1
+1
+2
+End Batch
+Batch contains:
+D 10 6
+Q 7 10
+Q 10 6
+Q 10 3
+Q 3 2
+Q 3 7
+D 7 2
+Q 2 10
+A 3 2
+A 1 7
+A 7 6
+D 7 8
+A 8 5
+D 5 2
+Q 1 9
+D 9 9
+D 2 4
+Q 8 2
+D 4 7
+D 4 1
+Q 3 6
+D 7 3
+Q 8 10
+D 8 3
+Q 2 1
+A 7 1
+Q 6 4
+Q 8 8
+D 10 10
+D 9 8
+Q 8 10
+Q 7 1
+D 1 3
+D 1 8
+Q 9 3
+D 8 4
+Q 8 6
+D 6 1
+Q 7 6
+D 6 1
+Q 10 7
+D 6 3
+Q 9 3
+Q 6 2
+A 1 6
+Q 8 3
+A 5 2
+Q 9 10
+D 4 7
+Q 3 6
+D 6 5
+Q 10 5
+Q 4 2
+D 5 8
+D 1 5
+Q 4 10
+D 4 9
+Q 5 2
+A 1 7
+D 5 2
+Q 6 9
+D 4 1
+D 7 1
+D 7 6
+D 7 6
+Q 8 3
+Q 8 5
+Q 4 6
+D 6 8
+Q 8 3
+Q 6 1
+Q 7 6
+Q 6 1
+Q 3 5
+Q 4 6
+Q 8 10
+Q 1 10
+Q 10 6
+A 3 4
+A 7 6
+F
+Results calculated successfully
+Time of execution = 35299
+Start printing Result:
+1
+2
+1
+2
+2
+2
+1
+2
+2
+1
+2
+2
+0
+1
+1
+2
+2
+1
+2
+2
+1
+2
+1
+2
+1
+2
+1
+1
+2
+2
+1
+1
+2
+2
+2
+2
+1
+1
+1
+1
+1
+End Batch
+Batch contains:
+D 7 4
+D 9 4
+D 9 3
+Q 2 8
+Q 2 6
+Q 4 1
+Q 7 4
+Q 10 7
+Q 6 5
+Q 6 10
+Q 10 3
+D 6 8
+A 4 10
+D 1 5
+Q 8 9
+Q 2 5
+Q 8 6
+Q 8 9
+Q 10 9
+Q 1 6
+Q 5 2
+A 9 5
+A 4 9
+Q 4 9
+D 9 4
+Q 2 5
+Q 2 2
+D 8 2
+Q 3 7
+D 4 9
+Q 5 3
+Q 1 6
+Q 7 1
+A 2 9
+A 3 2
+A 2 10
+D 7 3
+A 4 7
+Q 2 1
+Q 5 7
+A 1 8
+Q 7 9
+Q 4 4
+Q 1 8
+Q 5 4
+A 7 9
+Q 8 5
+Q 4 5
+A 2 10
+Q 8 7
+D 10 9
+A 7 2
+Q 5 10
+A 2 1
+Q 3 7
+Q 7 5
+Q 1 5
+A 4 2
+Q 1 6
+A 9 3
+Q 3 4
+Q 8 1
+Q 4 6
+Q 9 3
+A 2 7
+Q 2 3
+A 4 3
+Q 7 8
+D 2 6
+Q 4 5
+Q 5 1
+Q 10 1
+Q 5 3
+D 10 7
+D 3 10
+Q 2 6
+Q 4 9
+A 4 7
+Q 9 10
+A 3 6
+Q 4 1
+A 4 4
+D 6 8
+D 5 8
+Q 3 7
+Q 7 1
+Q 4 7
+Q 10 1
+A 6 4
+Q 10 4
+F
+Results calculated successfully
+Time of execution = 44980
+Start printing Result:
+2
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+0
+2
+1
+1
+1
+2
+1
+2
+0
+1
+1
+1
+2
+1
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+End Batch
+Server is running
+Batch contains:
+Q 10 1
+D 3 9
+Q 1 9
+A 1 5
+Q 5 9
+Q 2 5
+D 9 1
+Q 9 8
+Q 10 3
+Q 10 10
+F
+Results calculated successfully
+Time of execution = 3941
+Start printing Result:
+1
+1
+2
+1
+1
+2
+0
+End Batch
+Batch contains:
+D 8 9
+Q 1 3
+A 1 6
+Q 3 7
+Q 5 9
+Q 9 1
+Q 1 2
+Q 5 2
+Q 7 7
+D 8 2
+Q 8 10
+A 3 1
+Q 2 1
+A 6 5
+A 1 10
+Q 7 10
+D 5 2
+A 6 10
+Q 7 3
+Q 1 9
+F
+Results calculated successfully
+Time of execution = 9799
+Start printing Result:
+1
+1
+2
+2
+1
+2
+0
+1
+1
+1
+2
+1
+End Batch
+Batch contains:
+A 1 3
+Q 2 4
+Q 3 6
+Q 1 9
+A 6 10
+Q 7 7
+Q 3 10
+D 10 5
+Q 4 2
+D 6 5
+A 8 3
+D 1 8
+D 6 1
+A 5 8
+Q 2 1
+A 7 7
+D 5 1
+D 1 4
+Q 1 4
+D 9 6
+D 7 9
+A 9 9
+A 3 1
+Q 10 2
+A 3 10
+Q 1 8
+A 7 3
+Q 6 8
+D 1 7
+Q 10 8
+F
+Results calculated successfully
+Time of execution = 12652
+Start printing Result:
+1
+1
+1
+0
+2
+1
+1
+2
+1
+2
+2
+2
+End Batch
+Batch contains:
+Q 6 3
+A 8 6
+D 4 6
+Q 1 9
+Q 4 8
+Q 5 2
+Q 10 2
+A 8 7
+Q 5 8
+A 7 5
+Q 7 1
+D 7 9
+D 6 9
+Q 6 3
+Q 4 6
+A 3 9
+Q 7 7
+Q 7 2
+D 8 2
+Q 3 4
+A 4 5
+Q 3 7
+Q 9 5
+Q 5 3
+Q 3 6
+A 10 5
+Q 4 4
+Q 2 5
+D 2 9
+A 8 3
+Q 3 7
+Q 3 8
+A 8 7
+Q 6 3
+Q 7 7
+D 8 6
+Q 2 6
+Q 10 5
+Q 3 1
+Q 6 9
+F
+Results calculated successfully
+Time of execution = 20975
+Start printing Result:
+1
+1
+1
+2
+1
+1
+1
+1
+2
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+2
+1
+0
+1
+1
+1
+2
+End Batch
+Batch contains:
+Q 6 5
+Q 2 1
+Q 8 7
+A 4 9
+A 5 4
+A 3 8
+Q 3 4
+Q 9 10
+Q 1 1
+Q 2 5
+Q 7 8
+Q 10 4
+Q 1 1
+A 8 1
+Q 9 10
+Q 10 7
+Q 2 3
+A 9 6
+Q 8 5
+A 1 5
+Q 9 7
+A 3 2
+A 5 2
+Q 10 8
+D 6 7
+Q 9 7
+A 8 10
+A 3 5
+D 2 9
+D 7 2
+Q 5 2
+Q 3 6
+Q 2 9
+Q 3 6
+Q 2 2
+Q 6 8
+D 9 10
+Q 6 10
+Q 1 9
+Q 8 7
+D 4 7
+D 3 9
+A 1 5
+D 5 10
+A 6 4
+Q 7 4
+A 9 9
+A 1 3
+Q 2 1
+A 7 8
+F
+Results calculated successfully
+Time of execution = 23871
+Start printing Result:
+1
+1
+1
+1
+1
+0
+1
+2
+2
+0
+1
+2
+1
+1
+2
+2
+2
+1
+1
+2
+1
+0
+2
+1
+1
+1
+1
+1
+End Batch
+Batch contains:
+Q 3 2
+A 4 1
+Q 6 6
+A 2 2
+Q 1 1
+Q 3 9
+Q 6 2
+Q 5 4
+Q 6 10
+Q 6 8
+Q 3 3
+A 8 9
+Q 10 5
+Q 4 9
+Q 3 5
+D 1 2
+A 7 5
+Q 9 1
+A 6 2
+Q 6 3
+D 7 4
+Q 7 4
+Q 6 9
+Q 6 7
+A 4 5
+Q 2 6
+Q 8 9
+A 10 5
+Q 3 9
+A 5 6
+Q 7 7
+Q 5 5
+Q 9 4
+A 9 4
+Q 6 4
+D 5 3
+Q 5 3
+A 7 9
+Q 4 4
+A 1 3
+A 8 8
+A 5 4
+Q 2 10
+Q 10 3
+A 3 2
+Q 10 1
+A 3 9
+Q 5 3
+Q 3 6
+Q 9 3
+D 8 10
+Q 5 8
+Q 3 3
+A 2 8
+D 3 8
+Q 5 10
+D 6 6
+A 1 2
+Q 10 8
+D 4 10
+F
+Results calculated successfully
+Time of execution = 33639
+Start printing Result:
+1
+0
+0
+2
+1
+1
+1
+2
+0
+1
+1
+1
+2
+1
+2
+2
+2
+1
+1
+2
+0
+0
+2
+1
+1
+0
+1
+2
+1
+1
+1
+1
+1
+0
+2
+2
+End Batch
+Batch contains:
+Q 1 10
+Q 2 6
+Q 10 9
+D 7 8
+D 8 8
+D 7 3
+Q 7 6
+Q 6 4
+Q 4 10
+Q 8 1
+Q 10 10
+D 1 9
+Q 6 10
+Q 8 3
+Q 9 6
+Q 9 9
+D 8 10
+A 7 1
+Q 1 10
+Q 2 9
+A 10 2
+Q 10 1
+Q 1 4
+Q 2 5
+Q 4 5
+Q 7 3
+Q 2 1
+Q 1 6
+Q 3 10
+A 6 10
+D 5 2
+Q 8 2
+Q 1 6
+Q 5 7
+Q 3 2
+D 6 9
+D 2 1
+A 10 4
+Q 4 8
+Q 9 3
+Q 9 2
+D 1 5
+Q 10 8
+Q 1 1
+Q 5 8
+Q 9 4
+A 8 3
+D 4 4
+Q 10 4
+Q 3 9
+A 10 1
+Q 7 10
+Q 1 1
+A 9 1
+A 3 6
+A 8 5
+D 1 10
+Q 4 5
+Q 2 1
+A 5 7
+A 7 9
+Q 6 1
+Q 1 9
+Q 2 3
+Q 9 7
+Q 1 7
+Q 6 7
+Q 9 8
+Q 3 10
+Q 4 8
+F
+Results calculated successfully
+Time of execution = 32825
+Start printing Result:
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+0
+1
+1
+1
+1
+1
+0
+1
+2
+2
+1
+1
+2
+1
+2
+1
+1
+1
+End Batch
+Batch contains:
+Q 8 9
+A 1 6
+Q 2 10
+D 2 3
+D 9 4
+Q 2 2
+Q 2 1
+A 8 2
+A 5 7
+Q 10 8
+Q 3 9
+Q 10 3
+Q 3 9
+Q 9 8
+A 8 7
+D 1 6
+Q 1 5
+Q 6 9
+A 2 5
+Q 5 4
+Q 4 2
+D 5 6
+Q 9 9
+D 7 5
+Q 1 5
+Q 10 6
+D 3 3
+Q 9 4
+Q 8 8
+A 5 3
+Q 3 4
+Q 9 5
+Q 8 1
+Q 6 4
+A 6 2
+Q 9 6
+Q 6 10
+Q 7 5
+Q 6 3
+A 10 8
+Q 7 7
+D 4 4
+Q 4 3
+D 8 6
+A 3 3
+Q 2 6
+Q 4 2
+Q 5 1
+Q 9 8
+D 6 8
+D 5 2
+Q 5 1
+Q 10 2
+D 7 1
+A 3 9
+Q 4 1
+D 2 2
+D 8 5
+Q 6 8
+Q 10 1
+Q 4 8
+Q 10 1
+Q 8 9
+A 3 8
+Q 9 5
+D 10 8
+Q 2 8
+D 10 9
+Q 8 3
+A 7 3
+D 6 10
+Q 7 4
+Q 4 4
+Q 10 1
+D 7 8
+Q 6 5
+Q 8 3
+Q 4 8
+Q 7 8
+A 3 7
+F
+Results calculated successfully
+Time of execution = 39066
+Start printing Result:
+1
+1
+0
+2
+2
+1
+2
+1
+1
+1
+2
+1
+1
+0
+1
+1
+2
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+0
+1
+1
+1
+1
+2
+End Batch
+Batch contains:
+A 3 9
+Q 9 9
+D 5 1
+Q 6 5
+Q 8 2
+Q 8 2
+Q 1 5
+D 2 6
+A 5 8
+Q 10 4
+Q 3 2
+A 8 4
+Q 1 2
+Q 9 7
+Q 10 3
+Q 9 3
+Q 3 3
+Q 4 6
+Q 8 2
+Q 7 6
+Q 8 2
+A 2 4
+D 8 3
+Q 8 2
+D 7 6
+D 4 4
+D 4 1
+Q 5 9
+Q 9 8
+A 7 3
+A 2 9
+Q 3 4
+Q 9 10
+D 1 3
+Q 1 4
+D 8 7
+A 7 6
+Q 9 5
+Q 9 10
+Q 6 9
+D 4 3
+Q 3 1
+Q 2 2
+A 9 6
+Q 5 10
+A 1 8
+Q 10 9
+Q 9 5
+Q 7 4
+Q 6 2
+D 9 8
+Q 8 6
+Q 10 2
+Q 7 10
+Q 7 1
+D 1 6
+D 4 3
+Q 7 4
+Q 4 8
+Q 6 9
+Q 2 10
+A 1 7
+Q 9 5
+D 2 8
+A 8 5
+D 5 4
+Q 1 5
+Q 7 1
+Q 5 4
+Q 8 7
+Q 1 7
+A 2 3
+A 8 3
+Q 6 7
+Q 4 1
+Q 10 2
+Q 10 6
+D 2 6
+Q 3 5
+Q 9 4
+Q 7 5
+A 2 10
+A 5 2
+D 10 9
+Q 8 3
+D 2 3
+Q 3 5
+A 2 7
+Q 9 9
+Q 7 7
+F
+Results calculated successfully
+Time of execution = 42160
+Start printing Result:
+0
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+0
+2
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+0
+2
+1
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+2
+1
+1
+1
+0
+0
+End Batch
+Server is running
+Batch contains:
+Q 14 4
+Q 15 8
+D 12 4
+A 12 13
+Q 6 9
+A 5 1
+Q 5 5
+Q 9 14
+Q 1 12
+A 8 15
+F
+Results calculated successfully
+Time of execution = 4968
+Start printing Result:
+-1
+-1
+2
+0
+-1
+-1
+End Batch
+Batch contains:
+Q 12 8
+D 5 11
+Q 3 2
+Q 1 11
+Q 5 1
+Q 6 9
+Q 10 2
+D 13 1
+Q 6 5
+Q 10 14
+Q 3 1
+Q 10 14
+Q 10 5
+D 6 2
+Q 1 8
+Q 14 9
+D 6 1
+Q 8 4
+D 13 2
+D 1 14
+F
+Results calculated successfully
+Time of execution = 11813
+Start printing Result:
+-1
+1
+-1
+1
+2
+1
+1
+-1
+1
+-1
+1
+1
+-1
+1
+End Batch
+Batch contains:
+A 4 5
+D 11 10
+A 4 9
+Q 5 14
+Q 8 15
+Q 2 2
+Q 6 13
+A 8 8
+Q 4 14
+D 8 6
+D 10 5
+Q 9 11
+A 10 5
+D 14 1
+A 9 15
+Q 2 11
+Q 1 2
+Q 14 4
+A 11 9
+D 8 1
+Q 5 1
+A 7 3
+A 15 13
+D 15 14
+D 1 4
+Q 13 14
+Q 5 1
+Q 15 4
+Q 13 11
+D 3 12
+F
+Results calculated successfully
+Time of execution = 15641
+Start printing Result:
+-1
+1
+0
+-1
+-1
+-1
+-1
+1
+-1
+1
+-1
+1
+-1
+-1
+End Batch
+Batch contains:
+Q 9 12
+A 7 12
+Q 5 10
+Q 13 10
+Q 5 8
+D 14 14
+Q 3 5
+Q 11 3
+Q 14 1
+A 13 1
+Q 12 15
+A 5 7
+D 15 7
+Q 1 6
+Q 13 1
+Q 11 2
+A 12 2
+A 9 11
+Q 11 5
+Q 9 15
+D 1 10
+D 1 13
+D 7 1
+Q 11 11
+Q 6 12
+Q 14 14
+A 12 2
+A 8 13
+D 4 1
+D 8 2
+D 5 6
+Q 15 5
+Q 8 11
+Q 6 12
+D 11 9
+Q 1 14
+A 8 4
+A 12 4
+Q 13 15
+Q 6 15
+F
+Results calculated successfully
+Time of execution = 23224
+Start printing Result:
+-1
+2
+-1
+1
+1
+2
+-1
+4
+1
+1
+2
+2
+1
+0
+3
+-1
+3
+2
+3
+-1
+3
+3
+End Batch
+Batch contains:
+D 8 15
+Q 4 13
+Q 3 14
+Q 11 10
+Q 1 14
+D 10 3
+Q 13 8
+Q 15 1
+Q 13 2
+Q 10 8
+Q 14 5
+Q 7 5
+A 11 13
+A 10 13
+Q 7 9
+Q 11 12
+Q 5 7
+Q 2 15
+Q 8 3
+A 4 8
+Q 12 9
+D 15 14
+Q 14 10
+Q 9 11
+Q 5 15
+D 2 2
+D 14 15
+Q 7 6
+Q 6 14
+Q 1 12
+Q 7 4
+Q 3 9
+Q 2 9
+D 8 7
+A 7 4
+Q 14 12
+D 9 14
+Q 15 15
+A 3 6
+Q 1 4
+A 7 14
+Q 11 15
+Q 13 2
+D 4 13
+Q 15 13
+Q 2 1
+Q 7 9
+Q 7 10
+Q 6 13
+Q 3 11
+F
+Results calculated successfully
+Time of execution = 28819
+Start printing Result:
+2
+-1
+-1
+-1
+2
+2
+2
+2
+-1
+1
+1
+4
+1
+2
+1
+2
+-1
+1
+3
+1
+-1
+2
+2
+1
+1
+-1
+0
+2
+4
+2
+1
+2
+1
+1
+2
+2
+End Batch
+Batch contains:
+A 13 15
+Q 12 2
+D 6 9
+Q 3 2
+Q 3 5
+A 4 7
+Q 6 3
+D 1 2
+Q 2 4
+Q 13 2
+A 13 9
+Q 5 14
+A 9 12
+Q 1 3
+D 13 15
+Q 3 2
+A 13 3
+A 3 9
+D 5 9
+A 7 4
+Q 2 2
+Q 11 1
+A 6 9
+A 9 13
+A 4 8
+A 9 5
+D 11 15
+A 15 14
+Q 14 3
+Q 10 7
+Q 10 7
+D 12 9
+A 6 13
+A 15 14
+Q 1 13
+D 1 8
+D 8 5
+A 11 9
+Q 2 5
+A 8 5
+Q 9 3
+Q 6 10
+A 13 14
+Q 5 2
+D 15 6
+Q 15 3
+Q 15 1
+D 8 9
+D 12 14
+Q 1 5
+Q 14 13
+Q 14 10
+Q 14 12
+A 14 7
+A 2 9
+Q 5 13
+D 15 5
+A 12 3
+Q 11 8
+Q 6 12
+F
+Results calculated successfully
+Time of execution = 26293
+Start printing Result:
+1
+1
+1
+1
+1
+3
+2
+1
+1
+0
+2
+-1
+2
+2
+2
+1
+1
+1
+1
+2
+2
+1
+-1
+-1
+-1
+2
+3
+2
+End Batch
+Batch contains:
+D 13 9
+A 10 14
+Q 8 5
+Q 10 3
+Q 15 1
+A 13 11
+Q 9 10
+Q 15 6
+D 1 8
+Q 10 6
+D 13 3
+A 3 4
+D 12 8
+Q 14 5
+Q 13 1
+Q 3 10
+Q 4 4
+Q 12 14
+Q 15 9
+D 13 7
+A 3 15
+D 7 10
+Q 1 14
+A 12 7
+Q 10 8
+Q 1 15
+Q 11 4
+Q 3 9
+Q 10 12
+Q 1 9
+Q 12 13
+A 1 1
+A 3 4
+Q 7 13
+A 2 13
+A 13 13
+Q 15 3
+D 15 12
+Q 5 13
+D 12 12
+A 13 1
+Q 5 15
+D 9 7
+D 10 4
+Q 13 8
+Q 1 6
+D 14 10
+D 12 13
+A 15 14
+Q 3 14
+Q 14 5
+Q 3 10
+Q 10 2
+D 2 9
+Q 10 6
+Q 15 9
+D 9 13
+A 14 13
+Q 2 5
+D 15 3
+A 6 2
+Q 2 14
+D 9 5
+D 12 4
+Q 4 10
+A 6 3
+A 7 8
+A 1 3
+D 7 11
+Q 8 7
+F
+Results calculated successfully
+Time of execution = 37605
+Start printing Result:
+1
+2
+2
+1
+3
+1
+2
+1
+1
+0
+2
+3
+2
+2
+2
+3
+1
+3
+1
+1
+2
+3
+2
+2
+3
+1
+2
+2
+1
+1
+1
+3
+1
+2
+1
+1
+End Batch
+Batch contains:
+D 2 15
+D 12 15
+Q 1 6
+Q 5 4
+Q 8 9
+Q 2 4
+A 12 5
+Q 15 15
+Q 14 5
+A 6 7
+Q 12 3
+A 4 11
+Q 5 15
+Q 9 7
+A 13 12
+D 9 14
+D 12 1
+Q 6 5
+Q 5 7
+A 8 6
+Q 5 15
+D 2 13
+Q 15 9
+Q 11 15
+Q 12 13
+Q 1 11
+Q 12 11
+D 14 10
+Q 7 13
+Q 7 10
+Q 12 9
+A 12 2
+D 4 13
+D 4 4
+Q 7 13
+A 13 13
+Q 10 14
+Q 3 10
+D 13 13
+A 1 11
+D 14 15
+A 13 3
+D 15 7
+Q 4 9
+A 9 15
+D 13 11
+Q 10 7
+A 5 10
+Q 8 9
+Q 2 9
+A 2 12
+A 12 11
+A 7 5
+D 1 6
+Q 6 7
+D 3 1
+A 2 14
+D 10 1
+D 15 6
+Q 15 1
+A 5 13
+D 8 13
+A 8 11
+Q 13 6
+A 7 3
+A 13 9
+A 5 11
+D 4 1
+Q 12 3
+A 10 11
+D 8 2
+D 7 11
+D 6 2
+Q 14 10
+Q 2 9
+D 4 1
+Q 3 2
+D 12 13
+Q 7 10
+D 14 5
+F
+Results calculated successfully
+Time of execution = 36545
+Start printing Result:
+1
+1
+2
+1
+0
+2
+1
+2
+2
+1
+1
+2
+3
+2
+3
+2
+3
+2
+1
+2
+2
+1
+1
+1
+2
+2
+1
+1
+2
+2
+1
+2
+1
+1
+1
+End Batch
+Batch contains:
+Q 15 3
+D 1 10
+Q 14 2
+Q 9 12
+A 15 6
+D 5 7
+Q 7 4
+Q 15 15
+Q 15 5
+A 13 12
+A 14 7
+Q 13 12
+Q 13 7
+Q 9 15
+D 12 11
+Q 1 10
+Q 8 3
+Q 4 4
+Q 9 14
+Q 11 9
+A 7 12
+D 3 6
+Q 6 14
+Q 8 4
+Q 15 13
+Q 6 1
+A 5 2
+Q 13 11
+D 14 13
+Q 14 13
+Q 2 12
+Q 8 7
+Q 15 11
+Q 3 1
+Q 15 5
+Q 7 8
+A 1 7
+Q 11 15
+Q 7 10
+A 15 3
+Q 13 15
+Q 15 14
+Q 14 14
+D 10 12
+Q 12 10
+D 2 11
+Q 14 11
+Q 3 5
+D 1 8
+Q 2 4
+Q 7 10
+Q 14 15
+D 12 3
+Q 10 11
+Q 2 2
+Q 9 9
+Q 9 1
+D 6 6
+Q 7 12
+A 11 12
+Q 14 1
+Q 9 15
+Q 9 3
+Q 14 2
+D 15 1
+D 6 12
+A 13 11
+Q 6 12
+Q 6 8
+A 3 13
+A 3 13
+A 8 9
+Q 9 15
+Q 12 12
+D 4 4
+Q 7 14
+Q 2 7
+Q 11 15
+Q 12 4
+Q 10 15
+Q 5 1
+Q 13 9
+D 10 14
+A 2 12
+D 11 13
+Q 4 10
+D 12 11
+Q 1 8
+Q 6 11
+D 15 4
+F
+Results calculated successfully
+Time of execution = 42464
+Start printing Result:
+2
+3
+1
+1
+0
+2
+1
+2
+1
+2
+1
+0
+2
+1
+2
+1
+1
+2
+2
+3
+1
+1
+3
+1
+2
+1
+2
+1
+2
+1
+0
+2
+3
+1
+1
+1
+3
+1
+0
+0
+1
+1
+2
+1
+1
+3
+2
+2
+1
+0
+1
+1
+2
+2
+3
+1
+1
+1
+2
+2
+End Batch
+Server is running
+Batch contains:
+A 9 9
+Q 15 9
+Q 6 6
+Q 7 4
+Q 8 1
+D 2 9
+Q 6 2
+Q 13 8
+Q 2 10
+Q 7 1
+F
+Results calculated successfully
+Time of execution = 5135
+Start printing Result:
+2
+0
+1
+1
+1
+2
+1
+1
+End Batch
+Batch contains:
+Q 2 12
+Q 8 10
+D 15 9
+Q 4 7
+Q 14 14
+Q 7 14
+Q 13 12
+Q 13 10
+Q 14 7
+Q 13 6
+A 7 5
+Q 10 3
+A 7 5
+A 1 5
+Q 3 8
+Q 7 7
+Q 14 1
+D 8 5
+Q 4 15
+Q 15 10
+F
+Results calculated successfully
+Time of execution = 11305
+Start printing Result:
+1
+2
+1
+0
+1
+1
+2
+1
+1
+2
+1
+0
+2
+1
+2
+End Batch
+Batch contains:
+D 3 15
+Q 6 13
+D 15 3
+A 9 13
+Q 6 10
+Q 6 11
+Q 14 2
+Q 2 2
+Q 5 6
+Q 13 9
+A 12 6
+Q 10 9
+Q 3 8
+Q 7 13
+A 10 11
+D 1 12
+Q 8 5
+Q 3 15
+Q 6 3
+A 9 2
+Q 6 8
+D 4 6
+Q 14 14
+Q 11 14
+Q 4 2
+D 15 7
+Q 9 4
+Q 8 10
+Q 12 2
+Q 10 12
+F
+Results calculated successfully
+Time of execution = 13284
+Start printing Result:
+1
+1
+2
+3
+0
+2
+1
+2
+1
+2
+1
+2
+1
+2
+0
+3
+1
+2
+2
+1
+2
+End Batch
+Batch contains:
+A 8 14
+Q 4 15
+Q 5 9
+D 4 10
+A 15 3
+D 15 3
+Q 7 7
+A 2 8
+Q 2 11
+Q 12 4
+Q 4 8
+Q 12 4
+Q 1 13
+Q 8 9
+A 1 2
+A 6 3
+Q 10 3
+D 5 12
+A 4 4
+A 7 9
+Q 4 3
+Q 13 12
+Q 11 9
+Q 5 12
+A 6 10
+Q 15 6
+D 14 8
+Q 1 10
+D 6 11
+D 9 13
+Q 2 15
+A 4 10
+A 2 4
+Q 15 3
+Q 1 1
+Q 12 4
+Q 10 13
+Q 5 1
+Q 10 6
+D 8 2
+F
+Results calculated successfully
+Time of execution = 18396
+Start printing Result:
+1
+2
+0
+2
+2
+1
+2
+2
+1
+2
+1
+1
+1
+2
+1
+1
+2
+2
+0
+2
+1
+1
+1
+End Batch
+Batch contains:
+Q 10 11
+D 6 2
+Q 11 13
+A 6 3
+A 12 3
+Q 4 3
+A 12 15
+D 1 9
+Q 13 15
+Q 6 1
+A 1 14
+Q 8 6
+Q 8 3
+Q 5 9
+D 1 2
+D 13 6
+Q 9 2
+Q 6 4
+D 8 5
+Q 5 9
+A 2 13
+Q 2 13
+Q 7 13
+Q 7 4
+A 7 2
+Q 13 11
+A 10 1
+A 13 7
+Q 6 6
+A 12 3
+Q 2 10
+D 1 14
+Q 3 8
+A 12 9
+Q 3 11
+D 5 1
+A 13 2
+Q 1 5
+Q 14 4
+Q 7 6
+Q 5 3
+A 15 4
+Q 5 15
+A 6 11
+D 12 1
+Q 12 15
+Q 12 2
+Q 15 1
+Q 15 1
+Q 9 15
+F
+Results calculated successfully
+Time of execution = 25345
+Start printing Result:
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+2
+1
+1
+0
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+2
+1
+End Batch
+Batch contains:
+Q 8 9
+A 5 6
+Q 3 2
+A 10 8
+Q 11 5
+A 5 13
+D 3 1
+Q 9 7
+Q 13 14
+Q 9 8
+Q 14 6
+Q 13 6
+Q 11 14
+A 9 10
+Q 11 15
+Q 15 8
+A 9 4
+D 8 4
+Q 12 13
+D 6 6
+Q 6 2
+Q 6 7
+D 7 15
+D 12 3
+D 7 1
+D 8 8
+A 2 14
+D 10 3
+Q 13 4
+Q 5 15
+Q 12 15
+D 1 8
+Q 1 5
+A 7 9
+Q 3 1
+D 15 8
+D 11 6
+A 9 2
+Q 2 2
+Q 15 5
+A 14 12
+A 3 14
+Q 14 3
+Q 13 3
+Q 3 9
+A 7 13
+Q 4 1
+Q 7 12
+Q 6 13
+Q 1 9
+D 5 6
+Q 10 14
+A 2 15
+Q 8 7
+A 8 1
+A 6 2
+Q 6 3
+Q 7 10
+Q 2 4
+Q 9 12
+F
+Results calculated successfully
+Time of execution = 26736
+Start printing Result:
+1
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+1
+1
+1
+0
+2
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+End Batch
+Batch contains:
+A 11 13
+Q 10 1
+D 13 6
+Q 14 11
+Q 12 9
+Q 6 12
+Q 8 14
+Q 12 1
+Q 6 9
+A 12 8
+Q 4 5
+A 11 6
+A 11 5
+Q 12 4
+Q 12 14
+D 1 4
+A 10 6
+A 9 11
+Q 11 11
+Q 5 9
+Q 4 9
+Q 12 4
+Q 12 10
+Q 8 14
+Q 1 12
+Q 11 14
+D 7 5
+Q 5 3
+D 12 10
+Q 13 12
+Q 15 9
+D 8 10
+A 3 8
+Q 6 13
+Q 10 10
+Q 13 11
+D 10 10
+Q 14 13
+D 12 3
+Q 4 3
+D 9 10
+Q 11 9
+Q 8 4
+Q 6 2
+Q 10 11
+A 4 5
+Q 2 2
+Q 10 11
+Q 11 9
+A 7 15
+Q 8 12
+Q 4 7
+Q 6 4
+Q 9 12
+Q 8 15
+Q 14 5
+Q 4 1
+Q 3 6
+A 10 2
+D 3 11
+Q 13 11
+Q 9 3
+Q 6 13
+A 14 4
+D 1 14
+Q 10 5
+Q 12 12
+Q 9 2
+A 15 14
+Q 8 14
+F
+Results calculated successfully
+Time of execution = 35142
+Start printing Result:
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+0
+2
+1
+1
+2
+1
+2
+2
+1
+1
+2
+1
+0
+1
+2
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+0
+1
+1
+End Batch
+Batch contains:
+Q 12 5
+Q 1 4
+Q 15 4
+A 15 7
+Q 12 11
+Q 12 8
+Q 1 8
+A 13 3
+Q 7 5
+A 9 4
+Q 2 1
+A 3 12
+Q 1 4
+Q 12 5
+Q 12 1
+A 3 15
+Q 8 3
+Q 5 6
+Q 11 4
+A 1 6
+Q 7 1
+Q 8 3
+Q 1 4
+D 6 2
+A 13 8
+D 15 12
+Q 9 2
+Q 9 13
+Q 12 5
+Q 8 5
+A 1 13
+D 2 8
+D 15 2
+D 3 6
+Q 3 13
+A 10 9
+Q 14 8
+D 6 7
+A 5 13
+Q 3 11
+D 2 1
+Q 3 5
+Q 13 12
+D 6 3
+D 3 4
+D 10 12
+Q 11 6
+Q 11 11
+A 5 1
+D 1 4
+Q 1 2
+D 5 11
+Q 11 5
+Q 8 6
+Q 5 12
+A 11 7
+Q 2 6
+A 6 3
+Q 8 5
+A 13 9
+Q 2 2
+D 14 11
+A 3 6
+Q 14 6
+Q 11 5
+Q 9 11
+D 5 2
+Q 3 9
+D 1 2
+A 9 9
+Q 3 5
+D 12 1
+Q 6 12
+D 7 14
+A 15 9
+Q 14 9
+Q 2 10
+Q 7 12
+Q 15 10
+D 5 5
+F
+Results calculated successfully
+Time of execution = 39672
+Start printing Result:
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+2
+1
+1
+2
+1
+1
+1
+1
+2
+2
+1
+1
+2
+1
+1
+1
+1
+0
+1
+1
+1
+1
+2
+1
+0
+2
+1
+2
+1
+1
+1
+2
+1
+1
+2
+End Batch
+Batch contains:
+Q 9 12
+Q 11 3
+A 11 2
+A 8 4
+Q 4 7
+Q 8 10
+D 10 12
+D 4 8
+Q 3 4
+Q 9 11
+Q 13 12
+Q 8 3
+Q 11 15
+Q 12 13
+D 9 12
+Q 9 10
+Q 9 9
+Q 2 2
+Q 9 1
+Q 1 12
+A 1 11
+Q 14 14
+D 15 15
+D 6 8
+D 15 13
+D 2 8
+Q 3 2
+Q 10 10
+Q 7 13
+Q 3 8
+Q 1 2
+Q 8 2
+Q 5 13
+A 8 8
+Q 7 6
+A 7 9
+D 12 12
+Q 14 3
+Q 5 7
+A 12 4
+Q 4 8
+Q 9 8
+D 8 6
+Q 11 14
+A 15 2
+Q 13 6
+Q 14 1
+A 2 8
+Q 2 8
+D 13 15
+Q 6 6
+Q 3 1
+Q 7 12
+Q 6 9
+Q 12 4
+A 12 5
+Q 8 7
+Q 15 11
+Q 13 12
+Q 3 10
+A 5 11
+Q 4 15
+D 9 14
+D 11 15
+A 10 5
+D 8 13
+D 12 4
+D 8 14
+D 7 14
+Q 5 12
+A 9 15
+Q 13 13
+Q 9 2
+A 13 13
+Q 15 5
+D 5 7
+A 8 12
+Q 1 8
+Q 10 8
+A 14 13
+Q 7 14
+D 11 9
+Q 2 5
+Q 1 3
+Q 15 6
+A 14 2
+D 7 6
+A 8 8
+Q 13 4
+D 1 4
+F
+Results calculated successfully
+Time of execution = 42430
+Start printing Result:
+1
+2
+1
+2
+1
+2
+1
+1
+2
+2
+1
+0
+0
+1
+2
+0
+1
+0
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+0
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+0
+1
+2
+2
+1
+2
+1
+1
+1
+2
+End Batch
+Server is running
+Batch contains:
+Q 1 1
+Q 8 12
+Q 8 4
+Q 7 6
+Q 13 4
+Q 13 11
+Q 11 13
+Q 10 3
+Q 2 9
+Q 3 5
+F
+Results calculated successfully
+Time of execution = 5214
+Start printing Result:
+0
+1
+1
+2
+2
+1
+2
+2
+2
+1
+End Batch
+Batch contains:
+Q 6 6
+Q 14 1
+Q 1 10
+Q 2 2
+Q 11 15
+Q 4 2
+Q 3 9
+A 4 5
+Q 9 13
+Q 1 8
+F
+Results calculated successfully
+Time of execution = 6408
+Start printing Result:
+0
+2
+1
+0
+2
+1
+1
+2
+2
+End Batch
+Batch contains:
+Q 2 5
+A 9 10
+Q 7 9
+D 1 6
+Q 3 4
+A 4 10
+Q 7 12
+Q 8 7
+A 7 3
+Q 9 7
+F
+Results calculated successfully
+Time of execution = 4263
+Start printing Result:
+1
+1
+1
+1
+1
+1
+End Batch
+Batch contains:
+Q 14 5
+Q 5 13
+D 15 5
+Q 3 1
+Q 14 2
+A 7 11
+Q 4 6
+D 9 6
+Q 12 12
+Q 5 6
+F
+Results calculated successfully
+Time of execution = 3724
+Start printing Result:
+1
+1
+1
+1
+1
+0
+1
+End Batch
+Batch contains:
+A 13 13
+D 15 14
+A 7 3
+A 7 3
+D 9 6
+Q 3 6
+Q 9 1
+A 10 8
+D 1 11
+A 10 1
+F
+Results calculated successfully
+Time of execution = 5239
+Start printing Result:
+1
+1
+End Batch
+Batch contains:
+Q 9 4
+Q 6 3
+D 4 14
+Q 12 6
+Q 5 13
+D 6 14
+Q 11 14
+D 13 9
+D 12 7
+D 12 12
+F
+Results calculated successfully
+Time of execution = 4555
+Start printing Result:
+1
+1
+1
+1
+2
+End Batch
+Batch contains:
+Q 6 12
+Q 9 4
+Q 11 9
+Q 6 5
+D 8 1
+A 7 14
+D 6 2
+A 14 8
+D 3 12
+Q 14 8
+F
+Results calculated successfully
+Time of execution = 3926
+Start printing Result:
+1
+1
+2
+1
+1
+End Batch
+Batch contains:
+D 5 9
+D 2 15
+D 5 8
+Q 3 5
+D 11 13
+D 15 2
+A 3 11
+Q 8 8
+D 10 11
+D 7 1
+F
+Results calculated successfully
+Time of execution = 3767
+Start printing Result:
+1
+0
+End Batch
+Batch contains:
+D 1 14
+D 9 11
+A 14 11
+A 5 8
+Q 14 9
+D 9 5
+Q 2 6
+D 2 14
+D 4 10
+D 3 4
+F
+Results calculated successfully
+Time of execution = 5788
+Start printing Result:
+2
+1
+End Batch
+Server is running
+Batch contains:
+Q 3 15
+Q 6 15
+Q 12 7
+Q 8 9
+Q 10 11
+Q 10 7
+Q 15 5
+Q 4 10
+Q 4 6
+Q 6 5
+F
+Results calculated successfully
+Time of execution = 4872
+Start printing Result:
+1
+2
+2
+1
+1
+2
+2
+1
+1
+1
+End Batch
+Batch contains:
+Q 6 4
+Q 11 9
+Q 8 15
+D 6 6
+Q 7 4
+Q 13 8
+Q 11 3
+Q 10 13
+A 10 2
+D 11 3
+F
+Results calculated successfully
+Time of execution = 5008
+Start printing Result:
+1
+2
+2
+1
+1
+2
+1
+End Batch
+Batch contains:
+Q 2 1
+Q 8 3
+Q 4 1
+A 1 5
+Q 15 10
+Q 11 1
+Q 9 5
+Q 15 7
+Q 13 13
+A 10 9
+F
+Results calculated successfully
+Time of execution = 7575
+Start printing Result:
+2
+1
+1
+2
+2
+1
+1
+0
+End Batch
+Batch contains:
+Q 8 2
+A 2 4
+D 3 11
+A 9 9
+Q 4 6
+Q 3 6
+A 7 4
+D 6 2
+Q 8 6
+Q 13 6
+F
+Results calculated successfully
+Time of execution = 4986
+Start printing Result:
+1
+1
+1
+2
+1
+End Batch
+Batch contains:
+Q 15 7
+D 9 9
+Q 5 13
+Q 10 3
+D 8 4
+A 8 12
+Q 11 13
+Q 4 9
+A 10 13
+Q 1 13
+F
+Results calculated successfully
+Time of execution = 5796
+Start printing Result:
+1
+1
+2
+2
+1
+1
+End Batch
+Batch contains:
+D 5 7
+A 5 8
+Q 9 2
+Q 12 13
+A 10 5
+Q 3 10
+D 1 13
+Q 14 6
+Q 4 4
+Q 3 11
+F
+Results calculated successfully
+Time of execution = 6715
+Start printing Result:
+1
+2
+1
+2
+0
+1
+End Batch
+Batch contains:
+D 9 14
+Q 13 6
+D 1 10
+Q 11 5
+D 12 2
+A 3 12
+D 13 12
+Q 9 12
+A 13 2
+D 7 12
+F
+Results calculated successfully
+Time of execution = 5972
+Start printing Result:
+2
+1
+2
+End Batch
+Batch contains:
+D 15 9
+A 1 13
+Q 12 10
+D 1 3
+D 10 13
+D 4 8
+D 6 8
+D 13 7
+A 8 14
+A 15 11
+F
+Results calculated successfully
+Time of execution = 3553
+Start printing Result:
+1
+End Batch
+Batch contains:
+A 10 9
+A 14 11
+D 3 13
+A 7 3
+D 10 1
+D 13 2
+Q 11 14
+A 5 9
+A 3 3
+A 12 1
+F
+Results calculated successfully
+Time of execution = 5008
+Start printing Result:
+2
+End Batch
+Server is running
+Batch contains:
+Q 14 2
+Q 6 1
+Q 5 9
+Q 8 14
+Q 13 14
+D 13 15
+Q 9 2
+Q 6 1
+Q 2 12
+Q 11 14
+F
+Results calculated successfully
+Time of execution = 5454
+Start printing Result:
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+End Batch
+Batch contains:
+Q 5 2
+Q 12 13
+Q 4 12
+Q 3 2
+Q 10 10
+Q 14 12
+Q 14 5
+Q 9 4
+Q 11 10
+Q 6 15
+F
+Results calculated successfully
+Time of execution = 3658
+Start printing Result:
+-1
+-1
+-1
+2
+-1
+-1
+-1
+-1
+-1
+-1
+End Batch
+Batch contains:
+A 9 3
+Q 7 7
+Q 2 1
+Q 8 9
+D 7 9
+D 1 6
+D 12 5
+Q 10 4
+Q 11 15
+D 8 11
+F
+Results calculated successfully
+Time of execution = 5005
+Start printing Result:
+-1
+2
+-1
+-1
+-1
+End Batch
+Batch contains:
+D 9 4
+A 15 7
+Q 15 12
+D 15 10
+Q 1 1
+Q 12 6
+Q 11 6
+Q 4 5
+Q 5 8
+A 15 6
+F
+Results calculated successfully
+Time of execution = 6447
+Start printing Result:
+-1
+0
+-1
+-1
+-1
+-1
+End Batch
+Batch contains:
+Q 9 1
+D 11 15
+A 7 12
+Q 12 2
+Q 7 2
+A 4 5
+Q 5 4
+Q 2 14
+A 9 3
+D 9 8
+F
+Results calculated successfully
+Time of execution = 4763
+Start printing Result:
+2
+-1
+-1
+-1
+-1
+End Batch
+Batch contains:
+Q 2 5
+D 10 1
+Q 11 3
+Q 8 13
+A 1 12
+D 14 3
+A 2 10
+Q 12 11
+A 14 8
+A 13 12
+F
+Results calculated successfully
+Time of execution = 4193
+Start printing Result:
+-1
+-1
+-1
+-1
+End Batch
+Batch contains:
+Q 5 1
+A 6 14
+D 10 13
+Q 12 9
+A 10 14
+D 1 13
+Q 15 6
+Q 11 6
+D 11 11
+A 5 7
+F
+Results calculated successfully
+Time of execution = 4975
+Start printing Result:
+-1
+-1
+1
+3
+End Batch
+Batch contains:
+D 4 7
+D 4 15
+D 4 6
+D 9 5
+A 12 1
+D 5 11
+D 7 12
+A 3 10
+D 15 5
+A 11 10
+F
+Results calculated successfully
+Time of execution = 4940
+Start printing Result:
+End Batch
+Batch contains:
+D 9 9
+D 5 10
+A 4 8
+A 14 14
+A 6 1
+A 14 9
+D 10 13
+Q 9 14
+D 11 6
+D 12 4
+F
+Results calculated successfully
+Time of execution = 6326
+Start printing Result:
+3
+End Batch
+Server is running
+Batch contains:
+Q 5 8
+Q 7 14
+Q 1 12
+Q 13 13
+D 13 8
+Q 7 12
+Q 10 13
+Q 1 2
+Q 3 4
+Q 4 4
+F
+Results calculated successfully
+Time of execution = 5350
+Start printing Result:
+6
+4
+1
+0
+4
+-1
+1
+2
+0
+End Batch
+Batch contains:
+A 6 13
+Q 10 14
+A 1 12
+Q 7 12
+Q 9 13
+Q 10 3
+A 10 12
+Q 11 7
+D 15 4
+Q 13 11
+F
+Results calculated successfully
+Time of execution = 4149
+Start printing Result:
+1
+4
+4
+3
+1
+4
+End Batch
+Batch contains:
+Q 8 1
+Q 9 13
+Q 14 6
+Q 3 12
+D 5 7
+Q 5 7
+Q 1 6
+A 12 10
+Q 3 4
+Q 15 3
+F
+Results calculated successfully
+Time of execution = 4629
+Start printing Result:
+3
+4
+4
+2
+-1
+4
+2
+3
+End Batch
+Batch contains:
+Q 9 13
+Q 14 1
+Q 9 12
+A 10 8
+D 7 2
+Q 12 3
+A 5 1
+A 5 2
+Q 5 7
+Q 4 12
+F
+Results calculated successfully
+Time of execution = 5864
+Start printing Result:
+4
+3
+3
+3
+4
+2
+End Batch
+Batch contains:
+A 4 15
+Q 6 14
+Q 11 14
+Q 5 4
+D 9 6
+D 10 1
+Q 8 11
+A 3 9
+Q 3 6
+Q 2 14
+F
+Results calculated successfully
+Time of execution = 5712
+Start printing Result:
+1
+2
+4
+5
+2
+2
+End Batch
+Batch contains:
+A 1 1
+A 2 10
+D 14 3
+A 15 7
+A 5 6
+Q 7 3
+Q 10 3
+Q 8 11
+Q 2 11
+A 13 4
+F
+Results calculated successfully
+Time of execution = 6921
+Start printing Result:
+2
+3
+5
+4
+End Batch
+Batch contains:
+D 11 10
+Q 11 2
+Q 5 7
+D 2 5
+Q 2 9
+Q 5 10
+D 1 5
+A 6 7
+D 8 14
+Q 8 13
+F
+Results calculated successfully
+Time of execution = 4049
+Start printing Result:
+2
+4
+2
+2
+5
+End Batch
+Batch contains:
+D 6 7
+D 8 12
+D 3 3
+Q 4 9
+Q 13 3
+Q 7 6
+D 15 6
+Q 2 8
+D 13 12
+A 15 1
+F
+Results calculated successfully
+Time of execution = 4663
+Start printing Result:
+3
+1
+2
+2
+End Batch
+Batch contains:
+A 12 4
+A 5 3
+D 1 5
+A 11 2
+D 12 4
+A 11 10
+D 8 5
+Q 3 9
+A 4 9
+D 7 6
+F
+Results calculated successfully
+Time of execution = 5551
+Start printing Result:
+1
+End Batch
+Server is running
+Batch contains:
+Q 4 14
+Q 2 4
+D 12 3
+D 4 7
+Q 2 14
+D 10 15
+Q 15 6
+Q 10 9
+Q 10 5
+Q 14 12
+F
+Results calculated successfully
+Time of execution = 6337
+Start printing Result:
+3
+3
+2
+3
+2
+2
+2
+End Batch
+Batch contains:
+Q 14 12
+A 4 14
+A 15 6
+Q 7 14
+Q 14 10
+D 1 8
+Q 11 2
+Q 10 7
+Q 12 1
+Q 9 13
+Q 1 10
+A 9 6
+Q 4 8
+Q 1 9
+D 10 4
+A 1 10
+D 4 13
+Q 1 10
+Q 10 2
+Q 14 1
+F
+Results calculated successfully
+Time of execution = 10073
+Start printing Result:
+2
+3
+2
+1
+3
+1
+4
+2
+1
+3
+1
+2
+2
+End Batch
+Batch contains:
+A 3 1
+A 7 14
+Q 1 6
+A 2 8
+D 8 14
+Q 14 6
+A 12 9
+Q 7 8
+Q 11 8
+Q 2 1
+A 7 9
+Q 11 7
+D 2 9
+Q 6 14
+D 13 11
+A 9 5
+A 9 11
+Q 2 3
+D 12 10
+A 5 1
+A 13 13
+Q 7 12
+Q 9 9
+Q 2 11
+A 14 14
+Q 12 12
+Q 13 12
+A 14 10
+A 3 3
+Q 10 1
+F
+Results calculated successfully
+Time of execution = 15046
+Start printing Result:
+4
+2
+2
+2
+2
+1
+1
+1
+3
+0
+3
+0
+3
+2
+End Batch
+Batch contains:
+Q 8 8
+D 13 9
+Q 13 15
+A 10 1
+Q 13 7
+Q 6 8
+Q 7 1
+Q 13 6
+A 8 15
+Q 8 15
+Q 1 14
+A 10 2
+Q 15 12
+Q 10 12
+D 12 15
+D 10 14
+Q 13 10
+Q 15 14
+Q 8 6
+Q 6 9
+D 12 1
+Q 5 3
+A 6 12
+Q 2 3
+D 8 4
+A 2 13
+Q 11 5
+Q 9 3
+Q 8 12
+Q 12 1
+A 5 15
+A 8 9
+Q 8 1
+D 9 10
+D 4 10
+A 13 7
+D 6 1
+Q 12 12
+A 10 5
+Q 14 12
+F
+Results calculated successfully
+Time of execution = 18559
+Start printing Result:
+0
+2
+3
+2
+2
+3
+1
+2
+2
+1
+2
+2
+2
+2
+1
+1
+2
+1
+2
+3
+2
+0
+2
+End Batch
+Batch contains:
+Q 15 14
+D 12 9
+Q 7 14
+Q 7 3
+Q 9 3
+A 11 11
+Q 12 6
+Q 5 10
+Q 5 3
+A 10 6
+A 1 11
+Q 3 15
+Q 10 4
+D 3 8
+Q 5 2
+A 13 12
+Q 4 10
+Q 13 2
+Q 15 10
+Q 8 13
+D 2 11
+D 5 9
+D 4 9
+D 3 4
+A 11 7
+Q 9 2
+Q 7 14
+Q 11 14
+Q 11 1
+D 9 6
+A 5 8
+Q 8 1
+A 15 11
+D 2 6
+D 4 3
+Q 12 14
+Q 8 15
+Q 2 7
+A 12 3
+Q 6 15
+Q 6 4
+Q 1 2
+Q 1 8
+Q 14 4
+D 5 14
+A 3 9
+Q 7 13
+A 3 11
+Q 3 3
+Q 4 13
+F
+Results calculated successfully
+Time of execution = 23438
+Start printing Result:
+2
+1
+2
+1
+-1
+2
+1
+1
+3
+1
+2
+2
+1
+2
+2
+1
+2
+2
+2
+-1
+1
+2
+3
+2
+1
+2
+3
+3
+0
+3
+End Batch
+Batch contains:
+Q 12 1
+Q 12 12
+A 10 11
+D 11 12
+Q 10 12
+Q 7 2
+A 10 5
+Q 3 11
+Q 14 1
+Q 4 2
+Q 3 3
+A 13 11
+Q 11 1
+D 13 12
+D 3 6
+Q 9 7
+A 5 5
+Q 10 13
+Q 13 13
+D 5 1
+D 1 4
+D 8 2
+Q 10 8
+D 8 8
+Q 10 9
+A 8 10
+D 15 14
+Q 4 8
+A 2 7
+Q 8 6
+Q 8 6
+Q 11 10
+Q 10 12
+Q 6 3
+A 15 10
+D 8 9
+Q 13 9
+Q 5 14
+Q 10 5
+Q 12 7
+D 1 2
+Q 6 15
+Q 5 10
+D 7 8
+Q 3 10
+D 5 6
+Q 8 14
+D 14 3
+Q 1 12
+Q 7 10
+Q 15 13
+D 8 3
+Q 12 9
+Q 15 3
+A 2 1
+D 2 12
+D 15 10
+Q 1 4
+Q 6 7
+Q 10 4
+F
+Results calculated successfully
+Time of execution = 32423
+Start printing Result:
+2
+0
+1
+2
+1
+2
+2
+0
+2
+1
+2
+0
+1
+2
+1
+2
+2
+1
+1
+2
+2
+2
+1
+3
+3
+2
+1
+3
+1
+2
+2
+2
+2
+4
+2
+3
+End Batch
+Batch contains:
+Q 7 5
+Q 3 8
+Q 5 14
+Q 1 10
+Q 12 1
+Q 3 9
+D 3 11
+Q 9 7
+A 13 10
+Q 5 15
+Q 15 6
+D 2 9
+A 13 1
+A 12 8
+Q 3 2
+A 9 13
+A 3 7
+Q 13 3
+Q 14 14
+Q 8 10
+A 4 15
+A 2 1
+Q 4 12
+Q 9 12
+D 7 10
+D 8 14
+A 2 12
+Q 7 3
+Q 1 2
+D 1 9
+A 15 2
+Q 3 10
+D 9 10
+A 6 11
+Q 11 14
+Q 2 4
+Q 9 2
+A 1 7
+Q 15 8
+Q 14 14
+A 13 3
+D 11 9
+Q 2 6
+Q 5 6
+Q 3 13
+Q 14 3
+D 2 3
+Q 6 5
+Q 6 11
+A 4 5
+Q 2 8
+Q 15 12
+D 14 13
+Q 8 3
+Q 1 7
+Q 7 13
+Q 7 11
+D 1 13
+Q 10 9
+D 8 9
+Q 8 14
+D 3 13
+A 4 13
+Q 11 12
+A 15 14
+Q 10 2
+D 2 11
+Q 15 1
+D 6 3
+Q 7 4
+F
+Results calculated successfully
+Time of execution = 35673
+Start printing Result:
+1
+2
+3
+1
+2
+1
+1
+1
+1
+1
+1
+0
+1
+2
+3
+2
+2
+1
+2
+2
+2
+2
+0
+2
+2
+2
+2
+2
+1
+1
+2
+3
+1
+2
+2
+3
+3
+2
+1
+1
+3
+End Batch
+Batch contains:
+Q 11 14
+Q 12 2
+A 3 10
+Q 15 12
+A 3 5
+D 9 4
+Q 14 4
+A 4 6
+Q 5 11
+Q 6 1
+A 4 10
+D 13 1
+Q 13 12
+Q 13 11
+D 11 1
+Q 11 14
+D 8 8
+Q 4 3
+Q 5 8
+A 7 2
+A 8 9
+Q 12 11
+A 7 12
+D 11 11
+D 15 2
+D 5 15
+Q 3 4
+Q 15 3
+Q 4 7
+A 13 9
+Q 4 4
+Q 9 7
+Q 5 6
+Q 14 2
+Q 11 12
+Q 6 15
+Q 2 8
+A 13 6
+A 12 6
+Q 1 7
+Q 12 7
+Q 7 11
+Q 6 5
+D 4 9
+A 9 12
+Q 6 12
+D 4 3
+Q 8 11
+Q 2 2
+Q 8 1
+Q 7 4
+Q 5 10
+D 5 3
+A 8 10
+Q 14 10
+D 12 11
+Q 15 12
+Q 4 8
+A 1 14
+D 7 14
+D 1 11
+D 8 7
+A 14 6
+Q 7 13
+Q 1 13
+Q 8 7
+Q 11 12
+Q 1 12
+A 8 6
+Q 3 14
+D 11 14
+Q 2 8
+D 3 4
+A 12 8
+Q 8 8
+Q 8 6
+Q 1 1
+Q 2 14
+Q 4 15
+Q 14 4
+F
+Results calculated successfully
+Time of execution = 37759
+Start printing Result:
+2
+2
+2
+3
+2
+2
+2
+1
+2
+2
+1
+3
+2
+2
+2
+0
+1
+3
+1
+2
+3
+1
+1
+2
+2
+2
+1
+2
+0
+2
+3
+2
+1
+2
+1
+2
+3
+2
+2
+1
+2
+1
+0
+1
+0
+2
+1
+3
+End Batch
+Batch contains:
+Q 11 7
+D 13 1
+Q 11 14
+D 15 11
+Q 3 10
+D 6 7
+D 14 2
+D 7 5
+Q 14 9
+Q 15 7
+Q 9 8
+A 3 12
+A 9 9
+Q 5 15
+A 15 5
+A 10 12
+D 5 2
+D 9 11
+Q 1 11
+A 10 14
+Q 2 10
+Q 6 14
+Q 7 4
+D 14 10
+Q 13 11
+Q 10 12
+Q 1 2
+Q 3 14
+Q 6 13
+A 12 2
+D 14 13
+D 8 14
+A 9 15
+D 12 3
+A 11 1
+Q 6 8
+D 9 1
+A 8 2
+D 12 4
+A 11 7
+Q 4 5
+Q 8 11
+Q 14 9
+Q 6 12
+D 1 5
+Q 15 5
+Q 2 5
+Q 9 15
+Q 12 5
+Q 9 4
+A 10 12
+D 5 2
+Q 5 9
+Q 8 9
+D 9 12
+Q 8 4
+D 8 3
+Q 9 3
+A 15 15
+Q 11 12
+Q 3 8
+Q 12 12
+A 4 11
+A 6 11
+Q 5 9
+Q 4 3
+Q 3 5
+Q 8 7
+Q 15 10
+Q 9 13
+Q 11 9
+Q 14 3
+Q 13 3
+Q 1 9
+Q 5 9
+Q 15 3
+Q 15 12
+Q 5 12
+D 12 1
+Q 11 9
+Q 14 13
+Q 1 1
+Q 9 12
+A 1 3
+D 3 6
+A 15 7
+D 3 15
+Q 4 2
+Q 7 3
+Q 14 12
+F
+Results calculated successfully
+Time of execution = 46376
+Start printing Result:
+1
+3
+1
+1
+1
+2
+2
+2
+1
+1
+3
+1
+1
+2
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+3
+2
+2
+1
+2
+1
+2
+2
+0
+2
+2
+1
+2
+1
+1
+2
+2
+1
+2
+2
+3
+2
+2
+2
+2
+0
+2
+2
+2
+2
+End Batch
+Server is running
+Batch contains:
+Q 7 14
+Q 8 4
+A 9 4
+D 2 5
+Q 1 4
+Q 13 15
+Q 3 3
+Q 5 14
+A 8 1
+Q 6 2
+F
+Results calculated successfully
+Time of execution = 5593
+Start printing Result:
+3
+2
+3
+2
+0
+2
+2
+End Batch
+Batch contains:
+Q 14 13
+D 12 5
+A 6 7
+A 11 14
+A 6 1
+Q 9 9
+Q 8 15
+D 9 1
+Q 2 13
+A 11 7
+Q 10 8
+Q 9 11
+A 8 14
+Q 8 15
+A 4 12
+Q 6 11
+Q 13 15
+Q 3 15
+Q 12 1
+Q 7 12
+F
+Results calculated successfully
+Time of execution = 11491
+Start printing Result:
+2
+0
+1
+1
+1
+2
+1
+1
+2
+2
+2
+1
+End Batch
+Batch contains:
+Q 1 10
+A 15 6
+Q 1 3
+D 12 12
+Q 11 7
+A 5 14
+Q 1 3
+A 1 8
+Q 13 5
+A 5 13
+Q 11 11
+Q 5 3
+Q 10 2
+Q 9 1
+D 9 13
+Q 5 4
+Q 4 14
+Q 8 7
+Q 14 10
+A 3 2
+A 3 11
+A 14 13
+D 6 8
+Q 11 11
+Q 2 15
+Q 9 7
+D 3 9
+Q 7 15
+Q 10 2
+Q 8 2
+F
+Results calculated successfully
+Time of execution = 16713
+Start printing Result:
+1
+1
+1
+1
+2
+0
+2
+1
+2
+2
+1
+2
+2
+0
+2
+1
+2
+1
+1
+End Batch
+Batch contains:
+Q 3 9
+Q 13 12
+Q 4 4
+A 13 10
+D 3 15
+Q 1 5
+Q 1 3
+Q 10 5
+A 1 9
+A 7 3
+A 10 2
+D 8 11
+Q 7 9
+Q 9 13
+Q 2 3
+Q 15 6
+Q 5 6
+Q 12 3
+D 10 3
+Q 6 4
+Q 10 13
+Q 9 4
+A 1 11
+Q 13 8
+Q 9 9
+A 13 11
+Q 13 6
+Q 14 1
+A 6 9
+Q 12 13
+Q 3 8
+Q 2 13
+Q 12 7
+Q 8 14
+A 7 12
+Q 10 3
+D 14 11
+Q 15 3
+Q 4 15
+Q 10 12
+F
+Results calculated successfully
+Time of execution = 17152
+Start printing Result:
+1
+1
+0
+2
+1
+1
+1
+2
+2
+1
+2
+3
+2
+2
+1
+2
+0
+1
+2
+2
+2
+1
+2
+1
+2
+2
+1
+1
+End Batch
+Batch contains:
+D 12 11
+A 14 8
+D 1 12
+A 11 15
+Q 8 1
+Q 13 15
+Q 15 1
+D 11 9
+Q 2 7
+Q 8 7
+Q 6 1
+Q 3 3
+A 4 12
+A 2 9
+Q 13 15
+Q 8 12
+Q 7 4
+Q 10 1
+D 8 15
+D 11 10
+Q 7 1
+D 11 7
+D 12 3
+D 10 10
+A 3 5
+Q 15 4
+Q 2 7
+Q 5 5
+A 11 1
+Q 9 3
+Q 11 5
+D 10 5
+D 15 10
+Q 2 9
+Q 9 1
+Q 6 6
+D 4 1
+Q 11 5
+D 7 12
+Q 15 5
+Q 9 13
+Q 8 9
+Q 10 4
+A 15 4
+Q 14 8
+Q 4 13
+Q 7 13
+D 7 14
+A 5 13
+Q 10 13
+F
+Results calculated successfully
+Time of execution = 24180
+Start printing Result:
+1
+1
+1
+1
+2
+1
+0
+1
+2
+2
+1
+2
+1
+1
+0
+1
+2
+1
+2
+0
+2
+1
+2
+1
+2
+1
+1
+1
+2
+End Batch
+Batch contains:
+Q 14 3
+D 9 3
+D 9 15
+Q 11 14
+Q 4 13
+D 10 8
+D 11 1
+D 2 8
+Q 9 3
+Q 12 2
+Q 5 13
+Q 2 14
+A 13 5
+Q 10 4
+Q 12 7
+Q 11 10
+A 6 8
+D 2 2
+Q 8 8
+D 4 8
+A 4 5
+D 5 8
+Q 8 4
+Q 6 8
+D 15 15
+Q 13 6
+Q 14 11
+Q 3 15
+Q 1 15
+D 11 7
+Q 12 9
+Q 5 1
+D 7 10
+Q 8 10
+Q 8 7
+Q 5 3
+D 10 6
+D 7 3
+Q 6 4
+Q 14 3
+Q 13 7
+A 11 12
+Q 2 10
+A 8 14
+Q 15 4
+Q 6 9
+Q 5 13
+Q 8 11
+Q 6 2
+D 8 10
+Q 7 15
+Q 5 5
+D 2 12
+A 9 14
+Q 14 7
+Q 3 1
+Q 4 8
+Q 3 2
+A 15 2
+Q 11 11
+F
+Results calculated successfully
+Time of execution = 27646
+Start printing Result:
+2
+1
+1
+1
+1
+1
+2
+2
+2
+2
+0
+2
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+0
+2
+1
+2
+1
+0
+End Batch
+Batch contains:
+A 5 14
+Q 9 11
+D 13 11
+A 8 15
+Q 15 2
+A 9 4
+D 3 11
+Q 4 7
+Q 9 7
+Q 14 13
+A 6 7
+A 14 12
+A 14 6
+A 3 13
+Q 7 12
+A 12 8
+Q 10 2
+A 10 8
+Q 5 4
+Q 11 4
+Q 15 1
+Q 11 15
+D 8 12
+Q 10 12
+Q 4 1
+D 9 2
+Q 6 8
+A 11 14
+Q 7 1
+A 4 3
+Q 11 10
+Q 14 6
+Q 11 11
+D 2 7
+Q 10 11
+A 9 10
+Q 2 5
+Q 8 15
+A 4 15
+Q 10 2
+Q 7 9
+Q 15 12
+A 8 4
+D 3 8
+Q 12 15
+Q 13 12
+A 11 4
+Q 14 9
+Q 9 8
+Q 14 7
+Q 8 5
+Q 11 3
+A 7 15
+Q 14 3
+Q 4 8
+Q 1 8
+Q 6 5
+D 9 10
+Q 13 11
+D 6 11
+Q 1 6
+Q 9 5
+Q 2 4
+A 12 6
+Q 4 10
+Q 9 2
+Q 3 5
+D 6 15
+D 13 4
+D 2 15
+F
+Results calculated successfully
+Time of execution = 30574
+Start printing Result:
+2
+1
+2
+2
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+0
+1
+2
+1
+1
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+1
+2
+1
+2
+1
+2
+1
+2
+1
+End Batch
+Batch contains:
+Q 14 4
+Q 9 15
+Q 11 12
+Q 1 9
+A 15 14
+Q 6 13
+Q 1 4
+Q 12 13
+Q 3 13
+D 4 9
+Q 1 11
+Q 4 9
+A 1 14
+Q 4 1
+A 14 7
+Q 7 3
+Q 1 2
+Q 11 9
+Q 6 4
+D 11 15
+Q 10 2
+A 5 11
+D 9 14
+Q 2 10
+Q 6 8
+D 9 2
+Q 6 10
+Q 12 3
+Q 11 11
+D 4 2
+Q 14 8
+D 4 10
+A 12 8
+Q 4 15
+Q 1 3
+D 15 7
+A 11 2
+A 6 1
+D 11 4
+D 6 9
+Q 6 13
+A 8 14
+A 5 10
+Q 10 1
+Q 11 8
+Q 15 1
+D 7 5
+Q 14 11
+Q 4 4
+Q 4 8
+D 12 1
+Q 4 12
+Q 3 7
+Q 14 15
+Q 4 3
+Q 4 15
+Q 1 6
+Q 3 9
+Q 4 4
+Q 6 2
+A 12 4
+Q 13 4
+D 14 15
+Q 1 7
+D 11 4
+Q 13 14
+D 3 3
+Q 7 9
+Q 12 3
+Q 4 9
+Q 1 7
+Q 15 1
+D 10 11
+Q 3 14
+D 6 13
+Q 5 14
+Q 1 7
+Q 2 8
+Q 9 8
+D 15 6
+F
+Results calculated successfully
+Time of execution = 37571
+Start printing Result:
+2
+2
+1
+1
+1
+2
+2
+1
+1
+1
+1
+2
+2
+1
+2
+1
+1
+1
+2
+2
+0
+1
+1
+1
+1
+1
+1
+1
+2
+0
+2
+1
+1
+1
+1
+1
+2
+2
+0
+2
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+End Batch
+Batch contains:
+Q 12 9
+Q 10 15
+Q 3 1
+Q 11 12
+A 14 8
+Q 1 10
+D 14 15
+Q 12 9
+A 11 3
+A 15 1
+Q 10 5
+D 5 12
+A 8 3
+Q 6 15
+Q 5 10
+A 1 8
+D 4 12
+A 11 6
+Q 8 1
+Q 7 10
+D 10 1
+A 5 2
+D 11 6
+Q 13 7
+Q 11 6
+Q 13 3
+Q 12 1
+Q 4 7
+Q 3 3
+A 2 13
+A 12 8
+Q 15 11
+Q 11 7
+Q 6 3
+Q 10 9
+Q 1 4
+D 10 11
+A 6 15
+Q 13 15
+A 7 3
+D 10 10
+D 3 4
+A 10 7
+Q 1 10
+A 4 7
+D 11 5
+Q 1 12
+Q 5 6
+Q 14 1
+Q 4 1
+A 6 13
+D 6 5
+Q 9 7
+Q 2 8
+Q 6 5
+Q 5 8
+Q 8 3
+A 2 9
+A 2 5
+Q 13 11
+D 11 13
+D 6 10
+D 15 7
+Q 1 6
+Q 5 4
+A 8 6
+A 10 5
+Q 13 7
+Q 7 4
+D 1 13
+Q 6 13
+Q 15 14
+Q 8 10
+Q 12 12
+Q 6 6
+Q 7 8
+Q 12 3
+A 7 12
+D 6 2
+Q 3 12
+Q 14 11
+Q 12 2
+A 2 12
+Q 4 4
+Q 1 2
+D 6 2
+Q 11 6
+D 10 12
+Q 14 11
+Q 14 7
+F
+Results calculated successfully
+Time of execution = 40999
+Start printing Result:
+2
+2
+1
+1
+2
+2
+2
+2
+1
+1
+2
+1
+1
+1
+2
+2
+0
+2
+1
+2
+2
+2
+1
+2
+1
+2
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+1
+2
+1
+2
+2
+0
+0
+2
+2
+1
+2
+1
+0
+2
+1
+2
+2
+End Batch
+Server is running
+Batch contains:
+Q 6 14
+D 8 15
+Q 6 15
+D 12 10
+Q 4 7
+Q 7 10
+D 8 8
+D 10 7
+Q 2 4
+D 3 15
+F
+Results calculated successfully
+Time of execution = 3398
+Start printing Result:
+2
+6
+-1
+3
+2
+End Batch
+Batch contains:
+Q 15 6
+D 11 10
+A 6 7
+D 8 5
+Q 7 15
+Q 7 7
+Q 12 15
+Q 14 13
+Q 9 8
+Q 4 12
+Q 6 6
+D 2 14
+Q 2 12
+A 11 7
+A 15 14
+Q 15 11
+D 3 13
+A 7 9
+A 14 11
+Q 7 1
+F
+Results calculated successfully
+Time of execution = 10750
+Start printing Result:
+-1
+1
+0
+-1
+-1
+-1
+-1
+0
+2
+3
+-1
+End Batch
+Batch contains:
+Q 3 12
+D 6 4
+A 12 8
+Q 8 13
+A 9 11
+Q 12 4
+D 9 9
+Q 8 10
+Q 8 5
+Q 10 9
+Q 10 9
+D 13 10
+A 2 1
+D 12 7
+Q 9 13
+D 8 11
+Q 11 15
+Q 13 10
+Q 8 1
+Q 7 5
+A 5 8
+D 4 3
+A 1 5
+D 3 12
+A 2 5
+Q 14 3
+A 8 2
+D 4 5
+A 15 9
+Q 4 8
+F
+Results calculated successfully
+Time of execution = 14089
+Start printing Result:
+1
+-1
+-1
+1
+-1
+3
+3
+-1
+2
+4
+-1
+-1
+6
+3
+End Batch
+Batch contains:
+Q 2 4
+Q 10 1
+Q 8 14
+Q 9 11
+Q 8 4
+D 4 8
+D 15 15
+A 8 4
+Q 4 6
+D 13 4
+Q 13 5
+D 15 6
+A 7 13
+Q 3 13
+Q 15 1
+Q 6 1
+Q 5 12
+Q 11 13
+Q 2 9
+A 4 1
+Q 13 2
+A 13 6
+Q 5 12
+Q 1 12
+A 12 7
+Q 2 10
+D 8 13
+Q 8 1
+A 8 6
+Q 8 7
+Q 2 1
+D 15 15
+Q 2 9
+Q 10 9
+Q 15 15
+Q 8 1
+Q 3 14
+Q 9 5
+Q 8 2
+Q 7 11
+F
+Results calculated successfully
+Time of execution = 20284
+Start printing Result:
+2
+2
+3
+1
+3
+-1
+2
+1
+4
+1
+-1
+2
+3
+1
+-1
+-1
+1
+2
+2
+1
+3
+3
+0
+2
+4
+3
+1
+2
+End Batch
+Batch contains:
+Q 6 14
+D 9 2
+Q 8 9
+A 8 7
+A 10 9
+Q 7 4
+A 14 15
+Q 13 14
+Q 13 5
+D 2 13
+D 4 13
+Q 4 4
+D 8 1
+Q 7 4
+Q 8 11
+Q 5 3
+D 13 3
+Q 10 9
+Q 4 6
+Q 13 1
+Q 10 15
+A 1 5
+A 7 13
+Q 11 13
+Q 12 2
+D 14 4
+D 12 9
+Q 5 11
+D 10 1
+Q 2 9
+A 14 12
+Q 2 15
+Q 13 6
+A 2 4
+Q 13 8
+Q 10 5
+D 8 3
+Q 13 9
+D 14 8
+Q 11 8
+Q 8 9
+Q 14 9
+Q 4 12
+A 4 13
+D 8 12
+Q 1 5
+A 2 3
+Q 8 6
+Q 9 2
+D 3 9
+F
+Results calculated successfully
+Time of execution = 22994
+Start printing Result:
+2
+1
+4
+3
+2
+0
+4
+2
+3
+1
+3
+2
+3
+2
+2
+2
+2
+3
+1
+3
+2
+3
+3
+1
+2
+3
+1
+1
+2
+End Batch
+Batch contains:
+Q 4 9
+Q 5 3
+A 12 9
+Q 3 8
+Q 10 12
+D 13 4
+Q 3 14
+Q 15 9
+Q 9 6
+Q 7 9
+D 7 4
+A 14 1
+Q 8 8
+D 14 9
+D 6 11
+A 4 1
+Q 1 1
+Q 10 3
+Q 6 13
+A 6 1
+Q 1 1
+Q 6 11
+Q 3 6
+Q 14 5
+Q 7 15
+Q 1 13
+D 9 6
+Q 7 8
+A 3 11
+D 15 8
+A 10 14
+D 2 5
+A 7 15
+Q 11 5
+D 5 1
+Q 12 13
+Q 10 11
+Q 12 7
+Q 15 13
+Q 6 13
+Q 10 6
+A 9 14
+Q 2 9
+Q 11 1
+Q 1 13
+Q 1 3
+A 10 13
+Q 10 13
+D 6 5
+D 13 8
+Q 6 12
+D 14 5
+Q 11 4
+D 2 14
+Q 7 5
+Q 14 11
+D 1 13
+D 15 11
+Q 6 1
+Q 2 10
+F
+Results calculated successfully
+Time of execution = 28482
+Start printing Result:
+3
+3
+1
+1
+3
+1
+4
+1
+0
+0
+2
+2
+0
+1
+2
+2
+1
+3
+3
+1
+1
+1
+1
+2
+2
+3
+2
+3
+3
+3
+1
+1
+2
+3
+1
+1
+1
+End Batch
+Batch contains:
+Q 13 5
+A 11 13
+Q 7 9
+Q 5 2
+Q 10 12
+A 12 10
+Q 7 14
+Q 13 11
+Q 7 9
+Q 5 14
+Q 14 2
+D 14 3
+Q 12 13
+D 3 8
+Q 4 3
+D 14 6
+Q 5 7
+D 3 12
+Q 12 5
+D 8 12
+Q 11 15
+D 15 7
+Q 15 5
+D 1 2
+D 11 2
+A 2 15
+A 5 13
+A 7 2
+Q 12 6
+A 9 10
+Q 15 12
+Q 2 6
+Q 1 6
+Q 1 6
+Q 3 9
+Q 8 15
+A 3 4
+A 12 10
+Q 13 10
+Q 2 12
+Q 10 6
+Q 7 5
+Q 1 14
+Q 4 13
+Q 4 8
+A 13 10
+Q 5 14
+Q 13 4
+Q 2 10
+D 12 9
+A 7 11
+Q 5 13
+Q 13 1
+D 6 11
+Q 10 4
+Q 12 1
+Q 2 6
+Q 8 12
+Q 5 2
+A 1 6
+Q 1 8
+A 5 11
+Q 8 10
+Q 1 5
+D 2 5
+D 7 8
+Q 7 5
+D 13 2
+Q 11 7
+Q 8 1
+F
+Results calculated successfully
+Time of execution = 38360
+Start printing Result:
+2
+1
+2
+1
+1
+1
+1
+3
+3
+1
+3
+2
+3
+2
+3
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+2
+1
+1
+3
+2
+2
+1
+1
+2
+2
+3
+2
+2
+2
+2
+1
+1
+2
+1
+2
+End Batch
+Batch contains:
+Q 5 10
+Q 6 6
+Q 6 8
+A 11 8
+A 4 13
+Q 2 10
+Q 8 15
+Q 5 14
+Q 6 2
+A 10 11
+Q 5 1
+Q 13 10
+A 10 13
+Q 11 8
+Q 3 2
+Q 7 14
+D 6 5
+Q 4 10
+Q 6 6
+Q 2 3
+Q 4 5
+Q 14 6
+Q 6 7
+D 6 6
+D 14 11
+Q 6 1
+Q 7 6
+A 13 2
+Q 8 11
+Q 13 3
+Q 4 4
+Q 13 15
+Q 4 2
+Q 4 12
+Q 6 15
+Q 13 15
+A 9 5
+Q 14 4
+Q 5 15
+Q 8 7
+A 2 11
+Q 12 10
+Q 15 3
+D 12 14
+A 15 12
+Q 15 10
+Q 14 12
+D 6 3
+Q 14 8
+A 13 11
+A 5 8
+A 2 13
+Q 11 14
+Q 12 13
+Q 6 10
+Q 14 12
+D 8 8
+A 12 1
+Q 14 14
+A 15 6
+A 4 14
+Q 10 8
+Q 3 6
+D 2 7
+Q 3 11
+Q 2 1
+D 5 9
+A 14 4
+D 10 4
+Q 10 11
+Q 1 6
+A 2 15
+Q 2 3
+A 4 9
+Q 7 2
+Q 11 12
+Q 6 2
+Q 5 14
+Q 14 13
+Q 10 11
+F
+Results calculated successfully
+Time of execution = 39621
+Start printing Result:
+2
+0
+2
+1
+2
+2
+2
+2
+1
+1
+3
+1
+2
+0
+1
+2
+2
+1
+1
+2
+2
+2
+0
+2
+2
+3
+2
+2
+3
+3
+2
+1
+1
+2
+1
+2
+2
+1
+2
+1
+0
+1
+2
+1
+2
+1
+1
+1
+1
+2
+2
+2
+2
+1
+End Batch
+Batch contains:
+A 11 9
+Q 7 11
+A 9 9
+Q 7 14
+Q 1 12
+Q 5 8
+Q 8 2
+Q 1 15
+A 8 10
+Q 6 10
+D 9 11
+Q 4 12
+Q 8 1
+Q 13 15
+Q 1 12
+D 15 11
+A 12 12
+D 10 2
+Q 15 11
+Q 1 3
+A 4 6
+D 8 13
+Q 15 11
+Q 4 6
+Q 14 6
+Q 10 13
+D 3 9
+D 6 2
+A 9 4
+A 15 1
+A 7 14
+Q 13 14
+D 11 7
+Q 6 9
+Q 7 8
+Q 3 1
+Q 11 10
+Q 8 7
+D 14 12
+Q 7 5
+Q 13 11
+Q 10 15
+Q 11 14
+Q 13 7
+Q 3 3
+Q 8 5
+Q 11 1
+Q 10 13
+Q 13 15
+D 12 10
+Q 11 4
+Q 10 5
+Q 7 11
+D 15 7
+Q 5 15
+D 12 11
+Q 1 11
+Q 1 7
+D 15 1
+D 8 1
+Q 4 12
+Q 5 4
+Q 11 6
+Q 1 1
+Q 13 5
+D 13 11
+A 13 13
+Q 5 3
+Q 14 10
+A 3 14
+Q 2 11
+D 2 15
+D 10 9
+D 13 12
+D 8 11
+Q 2 12
+D 5 1
+Q 12 4
+Q 10 15
+Q 3 6
+Q 7 13
+A 2 5
+Q 13 12
+D 6 11
+Q 9 3
+D 3 14
+Q 10 2
+Q 13 11
+Q 14 12
+Q 2 4
+F
+Results calculated successfully
+Time of execution = 46637
+Start printing Result:
+1
+1
+2
+1
+1
+3
+2
+1
+2
+2
+2
+2
+3
+2
+1
+2
+1
+2
+2
+2
+3
+1
+2
+2
+1
+2
+2
+2
+0
+2
+3
+1
+2
+2
+2
+1
+1
+2
+2
+1
+1
+2
+0
+2
+3
+2
+1
+2
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+End Batch
+Server is running
+Batch contains:
+D 10 8
+Q 10 4
+A 2 2
+A 10 8
+D 5 5
+Q 5 7
+D 3 5
+D 9 9
+Q 12 4
+A 7 12
+F
+Results calculated successfully
+Time of execution = 4571
+Start printing Result:
+1
+2
+2
+End Batch
+Batch contains:
+D 14 4
+Q 3 13
+Q 9 5
+D 8 6
+A 11 2
+D 14 12
+Q 5 12
+D 5 14
+D 6 3
+Q 10 14
+A 7 13
+D 8 14
+Q 14 9
+Q 15 14
+D 15 15
+D 11 11
+A 9 7
+Q 4 6
+A 9 8
+A 8 13
+F
+Results calculated successfully
+Time of execution = 10125
+Start printing Result:
+1
+1
+1
+1
+3
+2
+2
+End Batch
+Batch contains:
+A 2 6
+Q 11 5
+A 7 8
+Q 7 8
+A 4 7
+D 10 14
+Q 4 8
+D 15 14
+Q 14 9
+A 14 13
+Q 13 7
+Q 7 7
+Q 13 10
+A 10 7
+A 5 15
+Q 12 3
+A 9 14
+Q 1 10
+A 14 3
+Q 9 14
+A 14 6
+A 8 12
+Q 11 12
+Q 14 3
+Q 11 13
+Q 8 14
+Q 6 12
+Q 10 15
+Q 10 1
+Q 4 1
+F
+Results calculated successfully
+Time of execution = 15595
+Start printing Result:
+1
+1
+2
+3
+1
+0
+1
+2
+1
+1
+2
+1
+2
+2
+1
+1
+2
+1
+End Batch
+Batch contains:
+Q 14 11
+Q 4 6
+Q 9 10
+D 5 7
+Q 4 15
+A 8 4
+Q 12 11
+Q 11 15
+Q 9 7
+A 1 9
+D 4 7
+D 6 1
+Q 8 10
+D 8 11
+Q 10 11
+Q 1 4
+A 2 7
+Q 10 12
+Q 4 13
+Q 2 2
+D 12 7
+Q 12 4
+Q 3 8
+A 4 10
+Q 15 6
+Q 4 15
+Q 3 9
+D 6 5
+A 7 5
+D 1 9
+A 2 2
+A 13 8
+Q 6 2
+Q 15 1
+D 5 8
+Q 3 10
+D 8 10
+A 12 1
+Q 6 1
+Q 6 11
+F
+Results calculated successfully
+Time of execution = 20927
+Start printing Result:
+2
+2
+1
+1
+2
+2
+1
+1
+1
+2
+2
+1
+0
+2
+1
+1
+1
+2
+2
+2
+2
+1
+2
+End Batch
+Batch contains:
+Q 11 15
+Q 2 6
+Q 4 12
+Q 8 7
+D 7 10
+A 9 11
+A 9 11
+A 15 6
+D 8 10
+Q 3 3
+Q 11 11
+Q 6 15
+Q 7 10
+Q 13 14
+Q 6 14
+Q 13 4
+Q 2 11
+D 11 4
+D 13 11
+Q 9 10
+A 6 10
+Q 7 1
+Q 15 15
+D 15 4
+A 1 15
+D 11 9
+Q 6 2
+A 12 6
+D 8 2
+A 8 13
+D 5 12
+Q 9 6
+Q 15 6
+Q 2 10
+A 12 13
+Q 8 11
+D 15 14
+Q 1 4
+Q 7 13
+D 9 7
+D 9 11
+Q 5 9
+Q 12 6
+Q 3 5
+D 1 1
+D 12 10
+Q 1 4
+D 12 12
+Q 13 4
+Q 2 10
+F
+Results calculated successfully
+Time of execution = 25278
+Start printing Result:
+2
+1
+1
+2
+0
+0
+2
+2
+2
+2
+2
+1
+1
+2
+0
+2
+2
+1
+1
+2
+2
+1
+2
+1
+2
+2
+2
+1
+End Batch
+Batch contains:
+A 4 4
+Q 11 15
+Q 7 13
+A 3 5
+Q 4 10
+Q 15 4
+Q 8 13
+A 2 13
+Q 3 1
+A 9 11
+D 10 2
+Q 11 10
+A 11 5
+Q 9 13
+Q 2 3
+Q 5 2
+Q 5 10
+A 15 7
+A 2 2
+Q 8 12
+Q 12 12
+Q 2 7
+A 14 1
+Q 15 13
+A 4 8
+D 12 15
+Q 5 11
+Q 3 10
+D 8 1
+Q 7 7
+Q 12 10
+Q 12 2
+A 3 3
+Q 9 2
+D 12 8
+Q 2 1
+D 9 4
+Q 1 2
+A 2 14
+D 14 12
+Q 2 2
+Q 8 8
+Q 13 3
+D 12 9
+Q 3 5
+Q 3 2
+D 10 7
+D 9 9
+Q 10 2
+Q 4 1
+Q 12 15
+A 2 4
+Q 1 4
+Q 1 12
+Q 2 1
+Q 5 13
+A 9 11
+A 11 1
+A 9 7
+Q 10 2
+F
+Results calculated successfully
+Time of execution = 32567
+Start printing Result:
+2
+1
+1
+2
+1
+3
+1
+2
+1
+2
+2
+1
+0
+1
+2
+1
+2
+0
+1
+2
+2
+1
+3
+0
+0
+2
+1
+2
+2
+1
+2
+2
+2
+1
+1
+2
+End Batch
+Batch contains:
+Q 9 15
+A 4 1
+D 6 4
+Q 13 7
+Q 13 8
+Q 15 15
+Q 12 3
+Q 13 9
+Q 11 9
+A 2 11
+A 15 11
+Q 8 3
+Q 12 9
+D 11 2
+Q 2 3
+D 3 3
+Q 12 7
+D 1 14
+Q 10 2
+A 1 8
+D 4 9
+D 14 3
+Q 3 5
+Q 11 8
+Q 11 10
+Q 11 8
+A 1 8
+Q 4 15
+Q 15 12
+A 1 13
+Q 14 5
+Q 15 5
+Q 10 4
+A 4 4
+Q 2 14
+Q 15 9
+Q 10 6
+D 7 2
+Q 4 9
+Q 7 13
+Q 10 12
+A 2 14
+D 9 14
+Q 14 5
+Q 10 6
+Q 3 4
+D 3 12
+A 11 8
+Q 8 6
+A 9 10
+D 7 7
+D 1 9
+Q 5 5
+Q 11 3
+A 3 14
+Q 13 8
+Q 9 8
+Q 8 3
+A 1 5
+Q 8 14
+Q 6 10
+Q 15 9
+D 7 11
+Q 1 11
+Q 7 4
+Q 8 4
+A 1 1
+A 13 5
+D 14 6
+Q 3 8
+F
+Results calculated successfully
+Time of execution = 34693
+Start printing Result:
+2
+1
+1
+0
+3
+2
+2
+2
+2
+1
+2
+2
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+2
+2
+1
+2
+2
+2
+2
+2
+0
+3
+1
+1
+2
+2
+1
+1
+2
+2
+1
+1
+End Batch
+Batch contains:
+A 8 1
+A 8 11
+D 2 10
+Q 2 13
+A 15 2
+A 9 7
+Q 12 14
+Q 2 9
+D 15 9
+D 9 1
+Q 1 1
+Q 9 1
+Q 5 10
+Q 4 4
+Q 14 9
+D 13 11
+Q 8 14
+A 15 8
+Q 15 9
+Q 5 9
+Q 11 5
+Q 14 8
+D 8 9
+Q 5 9
+Q 10 8
+Q 4 1
+D 10 2
+Q 9 7
+Q 5 8
+Q 3 13
+Q 4 11
+A 5 5
+Q 6 10
+D 3 4
+D 13 5
+A 14 3
+Q 15 3
+Q 10 4
+Q 8 4
+Q 3 2
+Q 7 13
+Q 11 7
+Q 8 14
+D 8 9
+Q 6 1
+D 8 15
+Q 14 7
+Q 3 15
+A 10 6
+Q 13 11
+Q 15 11
+D 5 9
+D 2 6
+Q 10 9
+A 10 4
+Q 9 7
+Q 3 15
+A 14 6
+A 6 1
+Q 9 10
+Q 6 12
+A 1 11
+Q 11 8
+D 9 12
+Q 4 7
+Q 2 10
+A 9 3
+D 13 6
+Q 7 8
+Q 14 9
+A 7 12
+A 8 14
+Q 7 5
+A 14 13
+D 5 10
+A 13 4
+Q 10 6
+Q 4 15
+A 4 7
+Q 7 10
+F
+Results calculated successfully
+Time of execution = 42097
+Start printing Result:
+1
+2
+2
+0
+2
+2
+0
+3
+2
+2
+2
+1
+2
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+2
+1
+2
+2
+2
+1
+1
+1
+2
+1
+1
+1
+2
+2
+1
+3
+1
+1
+1
+2
+End Batch
+Batch contains:
+A 12 6
+A 7 14
+A 15 5
+A 3 11
+Q 10 14
+Q 9 5
+D 3 8
+D 8 4
+A 8 5
+A 8 1
+Q 1 5
+Q 4 4
+D 10 11
+Q 12 10
+A 12 1
+Q 4 9
+Q 1 13
+Q 6 4
+Q 6 15
+Q 14 10
+Q 12 9
+Q 1 12
+Q 4 8
+Q 3 7
+D 5 8
+D 3 12
+A 2 6
+D 10 3
+Q 7 3
+Q 3 13
+Q 7 11
+A 5 12
+Q 7 9
+A 4 10
+Q 12 11
+D 5 6
+A 1 11
+A 15 14
+Q 5 4
+Q 8 4
+Q 1 10
+D 1 8
+Q 15 12
+Q 7 9
+Q 2 2
+Q 12 6
+Q 12 8
+Q 10 5
+Q 14 3
+Q 1 9
+Q 14 8
+A 14 8
+D 7 1
+Q 6 4
+Q 15 7
+A 11 7
+Q 10 4
+Q 11 15
+Q 3 2
+Q 10 8
+Q 3 9
+Q 3 3
+Q 5 5
+Q 3 15
+Q 6 7
+Q 2 8
+Q 5 15
+Q 11 11
+Q 6 12
+A 6 1
+A 7 1
+Q 3 1
+Q 2 5
+Q 12 10
+D 2 6
+D 10 5
+D 8 11
+D 3 11
+D 13 13
+Q 1 14
+Q 15 3
+Q 2 2
+A 11 13
+Q 4 12
+Q 15 2
+A 4 13
+A 5 2
+A 7 13
+D 13 3
+D 8 6
+F
+Results calculated successfully
+Time of execution = 50143
+Start printing Result:
+1
+1
+1
+0
+1
+2
+1
+2
+2
+2
+2
+2
+1
+2
+2
+1
+2
+3
+2
+1
+1
+1
+1
+3
+0
+1
+1
+2
+1
+2
+2
+2
+1
+1
+2
+2
+1
+3
+0
+0
+2
+1
+1
+1
+0
+1
+2
+1
+1
+2
+1
+0
+1
+1
+End Batch

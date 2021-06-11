@@ -16,7 +16,6 @@ public class Client extends UnicastRemoteObject implements IRemote {
 	 * 
 	 */
 	private static final long serialVersionUID = -4501269218926743441L;
-	static Logger log = Logger.getLogger(Client.class.getName());
 
 	protected Client() throws RemoteException {
 		super();
@@ -31,9 +30,9 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		 * if (args.length != 2) { System.out.println("Syntax - PowerServiceClient
 		 * host"); System.exit(1); }
 		 */
-		System.setProperty("clientlog", "clientlog.out");
+		System.setProperty("clientlog", "clientlog"+ Thread.currentThread().getId() +".out");
 		PropertyConfigurator.configure("src/log/log4j.properties");
-
+		Logger log = Logger.getLogger(Client.class.getName());
 		// Call registry for PowerService
 		IRemote service = (IRemote) Naming.lookup("rmi://" + "127.0.1.1" + ":" + "1099" + "/shortestPath");
 		boolean ready = false;
@@ -95,9 +94,10 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		
 		int nofB = 9;
 		for (int n = 1; n <= nofB; n++) {
-			double percentow = n*0.1;
-			System.out.println("percent of write = "+(percentow));
-			ArrayList<String> Batch = generateBatchs(10, 10, percentow);
+//			double percentow = n*0.1;
+//			System.out.println("percent of write = "+(percentow));
+			ArrayList<String> Batch = generateBatchs(n * 10, 15, 0.4);
+			System.out.println("number of request = "+(n*10));
 			log.info("Batch contains:");
 			//System.out.println("Batch contains:");
 			for (int i = 0; i < Batch.size(); i++) {
@@ -124,27 +124,6 @@ public class Client extends UnicastRemoteObject implements IRemote {
 		}
 
 	}
-
-//	private static ArrayList<String> generateBatchs(int n, int k) {
-//		int i = 0;
-//		ArrayList<String> Batch = new ArrayList<String>();
-//		while (i < n) {
-//			StringBuilder salt = new StringBuilder();
-//			Random random = new Random();
-//			String s = "ADQ";
-//			int index = random.nextInt(s.length());
-//			salt.append(s.charAt(index));
-//			salt.append(" ");
-//			salt.append(Integer.toString(random.nextInt(k) + 1));
-//			salt.append(" ");
-//			salt.append(Integer.toString(random.nextInt(k) + 1));
-//			String saltStr = salt.toString();
-//			Batch.add(saltStr);
-//			i++;
-//		}
-//		Batch.add("F");
-//		return Batch;
-//	}
 
 	private static ArrayList<String> generateBatchs(int n, int k, double percentow) {
 		int i = 0;
